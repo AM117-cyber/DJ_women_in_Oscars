@@ -1,0 +1,309 @@
+{
+    "Oscar Awards": {
+        "Best Director": {
+        "Everything Everywhere All at Once": {
+            "director_name": "Daniel Kwan & Daniel Scheinert",
+            "year": 2023
+        },
+        "The Power of the Dog": {
+            "director_name": "Jane Campion",
+            "year": 2022
+        },
+        "Nomadland": {
+            "director_name": "Chloé Zhao",
+            "year": 2021
+        },
+        "Parasite": {
+            "director_name": "Bong Joon Ho",
+            "year": 2020
+        },
+        "Roma": {
+            "director_name": "Alfonso Cuarón",
+            "year": 2019
+        },
+        "The Shape of Water": {
+            "director_name": "Guillermo del Toro",
+            "year": 2018
+        },
+        "La La Land": {
+            "director_name": "Damien Chazelle",
+            "year": 2017
+        },
+        "The Revenant": {
+            "director_name": "Alejandro González Iñárritu",
+            "year": 2016
+        },
+        "Birdman": {
+            "director_name": "Alejandro González Iñárritu",
+            "year": 2015
+        },
+        "Gravity": {
+            "director_name": "Alfonso Cuarón",
+            "year": 2014
+        },
+        "Life of Pi": {
+            "director_name": "Ang Lee",
+            "year": 2013
+        },
+        "The Artist": {
+            "director_name": "Michel Hazanavicius",
+            "year": 2012
+        },
+        "The King's Speech": {
+            "director_name": "Tom Hooper",
+            "year": 2011
+        },
+        "The Hurt Locker": {
+            "director_name": "Kathryn Bigelow",
+            "year": 2010
+        },
+        "Slumdog Millionaire": {
+            "director_name": "Danny Boyle",
+            "year": 2009
+        },
+        "No Country for Old Men": {
+            "director_name": "Joel and Ethan Coen",
+            "year": 2008
+        },
+        "The Departed": {
+            "director_name": "Martin Scorsese",
+            "year": 2007
+        },
+        "Brokeback Mountain": {
+            "director_name": "Ang Lee",
+            "year": 2006
+        },
+        "Million Dollar Baby": {
+            "director_name": "Clint Eastwood",
+            "year": 2005
+        },
+        "The Lord of the Rings: The Return of the King": {
+            "director_name": "Peter Jackson",
+            "year": 2004
+        },
+        "The Pianist": {
+            "director_name": "Roman Polanski",
+            "year": 2003
+        },
+        "A Beautiful Mind": {
+            "director_name": "Ron Howard",
+            "year": 2002
+        },
+        "Traffic": {
+            "director_name": "Steven Soderbergh",
+            "year": 2001
+        },
+        "Erin Brockovich": {
+            "director_name": "Steven Soderbergh",
+            "year": 2000
+        },
+        "American Beauty": {
+            "director_name": "Sam Mendes",
+            "year": 1999
+        },
+        "Saving Private Ryan": {
+            "director_name": "Steven Spielberg",
+            "year": 1998
+        },
+        "Titanic": {
+            "director_name": "James Cameron",
+            "year": 1997
+        },
+        "The English Patient": {
+            "director_name": "Anthony Minghella",
+            "year": 1996
+        },
+        "Braveheart": {
+            "director_name": "Mel Gibson",
+            "year": 1995
+        },
+        "Forrest Gump": {
+            "director_name": "Robert Zemeckis",
+            "year": 1994
+        },
+        "Schindler's List": {
+            "director_name": "Steven Spielberg",
+            "year": 1993
+        },
+        "Unforgiven": {
+            "director_name": "Clint Eastwood",
+            "year": 1992
+        },
+        "The Silence of the Lambs": {
+            "director_name": "Jonathan Demme",
+            "year": 1991
+        },
+        "Dances with Wolves": {
+            "director_name": "Kevin Costner",
+            "year": 1990
+        },
+        "Born on the Fourth of July": {
+            "director_name": "Oliver Stone",
+            "year": 1989
+        },
+        "Rain Man": {
+            "director_name": "Barry Levinson",
+            "year": 1988
+        },
+        "The Last Emperor": {
+            "director_name": "Bernardo Bertolucci",
+            "year": 1987
+        },
+        "Platoon": {
+            "director_name": "Oliver Stone",
+            "year": 1986
+        },
+        "Out of Africa": {
+            "director_name": "Sydney Pollack",
+            "year": 1985
+        },
+        "Amadeus": {
+            "director_name": "Miloš Forman",
+            "year": 1984
+        },
+        "Terms of Endearment": {
+            "director_name": "James L. Brooks",
+            "year": 1983
+        },
+        "Gandhi": {
+            "director_name": "Richard Attenborough",
+            "year": 1982
+        },
+        "Reds": {
+            "director_name": "Warren Beatty",
+            "year": 1981
+        },
+        "Ordinary People": {
+            "director_name": "Robert Redford",
+            "year": 1980
+        },
+        "Kramer vs. Kramer": {
+            "director_name": "Robert Benton",
+            "year": 1979
+        },
+        "The Deer Hunter": {
+            "director_name": "Michael Cimino",
+            "year": 1978
+        },
+        "Annie Hall": {
+            "director_name": "Woody Allen",
+            "year": 1977
+        },
+        "Rocky": {
+            "director_name": "John G. Avildsen",
+            "year": 1976
+        },
+        "The Godfather Part II": {
+            "director_name": "Francis Ford Coppola",
+            "year": 1975
+        },
+        "The Sting": {
+            "director_name": "George Roy Hill",
+            "year": 1974
+        },
+        "Cabaret": {
+            "director_name": "Bob Fosse",
+            "year": 1973
+        }
+    },
+    "Best Original Screenplay": {
+        "The Power of the Dog": {
+            "screenwriter_name": "Jane Campion",
+            "year": 2022
+        },
+        "Promising Young Woman": {
+            "screenwriter_name": "Emerald Fennell",
+            "year": 2020
+        },
+        "Parasite": {
+            "screenwriter_name": "Bong Joon-ho and Han Jin-won",
+            "year": 2019
+        },
+        "Green Book": {
+            "screenwriter_name": "Peter Farrelly, Nick Vallelonga, and Brian Currie",
+            "year": 2018
+        },
+        "Get Out": {
+            "screenwriter_name": "Jordan Peele",
+            "year": 2017
+        },
+        "Manchester by the Sea": {
+            "screenwriter_name": "Kenneth Lonergan",
+            "year": 2016
+        },
+        "Spotlight": {
+            "screenwriter_name": "Tom McCarthy and Josh Singer",
+            "year": 2015
+        },
+        "Birdman": {
+            "screenwriter_name": "Alejandro González Iñárritu, Nicolás Giacobone, Alexander Dinelaris Jr., and Armando Bo",
+            "year": 2014
+        },
+        "Her": {
+            "screenwriter_name": "Spike Jonze",
+            "year": 2013
+        },
+        "Django Unchained": {
+            "screenwriter_name": "Quentin Tarantino",
+            "year": 2012
+        },
+        "Midnight in Paris": {
+            "screenwriter_name": "Woody Allen",
+            "year": 2011
+        },
+        "The King's Speech": {
+            "screenwriter_name": "David Seidler",
+            "year": 2010
+        },
+        "The Hurt Locker": {
+            "screenwriter_name": "Mark Boal",
+            "year": 2009
+        },
+        "Milk": {
+            "screenwriter_name": "Dustin Lance Black",
+            "year": 2008
+        },
+        "Juno": {
+            "screenwriter_name": "Diablo Cody",
+            "year": 2007
+        },
+        "Little Miss Sunshine": {
+            "screenwriter_name": "Michael Arndt",
+            "year": 2006
+        },
+        "Crash": {
+            "screenwriter_name": "Paul Haggis and Bobby Moresco",
+            "year": 2005
+        },
+        "Eternal Sunshine of the Spotless Mind": {
+            "screenwriter_name": "Charlie Kaufman, Michel Gondry, and Pierre Bismuth",
+            "year": 2004
+        },
+        "Lost in Translation": {
+            "screenwriter_name": "Sofia Coppola",
+            "year": 2003
+        },
+        "Talk to Her": {
+            "screenwriter_name": "Pedro Almodóvar",
+            "year": 2002
+        },
+        "Gosford Park": {
+            "screenwriter_name": "Julian Fellowes",
+            "year": 2001
+        },
+        "Almost Famous": {
+            "screenwriter_name": "Cameron Crowe",
+            "year": 2000
+        },
+        "American Beauty": {
+            "screenwriter_name": "Alan Ball",
+            "year": 1999
+        },
+        "Shakespeare in Love": {
+            "screenwriter_name": "Marc Norman and Tom Stoppard",
+            "year": 1998
+        }
+    }
+}
+       
+    }

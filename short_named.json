@@ -1,0 +1,82 @@
+{
+    "1981": {
+        "MUSIC (Original Score)": {
+            "Vangeli": {
+                "name_of_work": "Chariots of Fire",
+                "winner": false
+            }
+        }
+    },
+    "1984": {
+        "MUSIC (Original Song Score)": {
+            "Prince": {
+                "name_of_work": "Purple Rain",
+                "winner": false
+            }
+        }
+    },
+    "1987": {
+        "MUSIC (Original Score)": {
+            "Cong Su": {
+                "name_of_work": "The Last Emperor",
+                "winner": false
+            }
+        }
+    },
+    "1995": {
+        "BEST PICTURE": {
+            "Jr.": {
+                "name_of_work": "Braveheart",
+                "winner": false
+            }
+        }
+    },
+    "2000": {
+        "MUSIC (Original Score)": {
+            "Tan Dun": {
+                "name_of_work": "Crouching Tiger, Hidden Dragon",
+                "winner": false
+            }
+        }
+    },
+    "2002": {
+        "MUSIC (Original Song)": {
+            "Eminem": {
+                "name_of_work": "\"Lose Yourself\" from 8 Mile",
+                "winner": false
+            }
+        }
+    },
+    "2005": {
+        "DIRECTING": {
+            "Ang Lee": {
+                "name_of_work": "Brokeback Mountain",
+                "winner": false
+            }
+        }
+    },
+    "2012": {
+        "DIRECTING": {
+            "Ang Lee": {
+                "name_of_work": "Life of Pi",
+                "winner": false
+            }
+        }
+    },
+    "2014": {
+        "WRITING (Original Screenplay)": {
+            "Jr.": {
+                "name_of_work": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "winner": false
+            }
+        }
+    },
+    "2020": {
+        "MUSIC (Original Song)": {
+            "H.E.R.": {
+                "name_of_work": "\"Fight For You\" from Judas and the Black Messiah",
+                "winner": false
+            }
+        }
+    }
+}

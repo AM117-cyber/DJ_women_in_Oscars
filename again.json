@@ -1,0 +1,532 @@
+{
+    "1972": {
+      "Bob Fosse": {
+        "movie name": "Cabaret",
+        "position": "Winner"
+      },
+      "Francis Ford Coppola": {
+        "movie name": "The Godfather",
+        "position": "Nominee"
+      },
+      "John Boorman": {
+        "movie name": "Deliverance",
+        "position": "Nominee"
+      },
+      "Joseph L. Mankiewicz": {
+        "movie name": "Sleuth",
+        "position": "Nominee"
+      },
+      "Jan Troell": {
+        "movie name": "The Emigrants",
+        "position": "Nominee"
+      }
+    },
+    "1973": {
+      "George Roy Hill": {
+        "movie name": "The Sting",
+        "position": "Winner"
+      },
+      "Bernardo Bertolucci": {
+        "movie name": "Last Tango in Paris",
+        "position": "Nominee"
+      },
+      "Ingmar Bergman": {
+        "movie name": "Cries and Whispers",
+        "position": "Nominee"
+      },
+      "William Friedkin": {
+        "movie name": "The Exorcist",
+        "position": "Nominee"
+      },
+      "George Lucas": {
+        "movie name": "American Graffiti",
+        "position": "Nominee"
+      }
+    },
+    "1974": {
+      "Francis Ford Coppola": {
+        "movie name": "The Godfather Part II",
+        "position": "Winner"
+      },
+      "John Cassavetes": {
+        "movie name": "A Woman Under the Influence",
+        "position": "Nominee"
+      },
+      "Bob Fosse": {
+        "movie name": "Lenny",
+        "position": "Nominee"
+      },
+      "Roman Polanski": {
+        "movie name": "Chinatown",
+        "position": "Nominee"
+      },
+      "François Truffaut": {
+        "movie name": "Day for Night",
+        "position": "Nominee"
+      }
+    },
+    "1975": {
+      "Miloš Forman": {
+        "movie name": "One Flew Over the Cuckoo's Nest",
+        "position": "Winner"
+      },
+      "Robert Altman": {
+        "movie name": "Nashville",
+        "position": "Nominee"
+      },
+      "Federico Fellini": {
+        "movie name": "Amarcord",
+        "position": "Nominee"
+      },
+      "Sidney Lumet": {
+        "movie name": "Dog Day Afternoon",
+        "position": "Nominee"
+      },
+      "Steven Spielberg": {
+        "movie name": "Jaws",
+        "position": "Nominee"
+      }
+    },
+    "1976": {
+      "John G. Avildsen": {
+        "movie name": "Rocky",
+        "position": "Winner"
+      },
+      "Ingmar Bergman": {
+        "movie name": "Face to Face",
+        "position": "Nominee"
+      },
+      "Sidney Lumet": {
+        "movie name": "Network",
+        "position": "Nominee"
+      },
+      "Alan J. Pakula": {
+        "movie name": "All the President's Men",
+        "position": "Nominee"
+      },
+      "Lina Wertmüller": {
+        "movie name": "Seven Beauties",
+        "position": "Nominee"
+      }
+    },
+    "1977": {
+      "Woody Allen": {
+        "movie name": "Annie Hall",
+        "position": "Winner"
+      },
+      "George Lucas": {
+        "movie name": "Star Wars",
+        "position": "Nominee"
+      },
+      "Herbert Ross": {
+        "movie name": "The Turning Point",
+        "position": "Nominee"
+      },
+      "Steven Spielberg": {
+        "movie name": "Close Encounters of the Third Kind",
+        "position": "Nominee"
+      },
+      "Fred Zinnemann": {
+        "movie name": "Julia",
+        "position": "Nominee"
+      }
+    },
+    "1978": {
+      "Michael Cimino": {
+        "movie name": "The Deer Hunter",
+        "position": "Winner"
+      },
+      "Woody Allen": {
+        "movie name": "Interiors",
+        "position": "Nominee"
+      },
+      "Hal Ashby": {
+        "movie name": "Coming Home",
+        "position": "Nominee"
+      },
+      "Warren Beatty and Buck Henry": {
+        "movie name": "Heaven Can Wait",
+        "position": "Nominee"
+      },
+      "Alan Parker": {
+        "movie name": "Midnight Express",
+        "position": "Nominee"
+      }
+    },
+    "1979": {
+      "Robert Benton": {
+        "movie name": "Kramer vs. Kramer",
+        "position": "Winner"
+      },
+      "Francis Ford Coppola": {
+        "movie name": "Apocalypse Now",
+        "position": "Nominee"
+      },
+      "Bob Fosse": {
+        "movie name": "All That Jazz",
+        "position": "Nominee"
+      },
+      "Édouard Molinaro": {
+        "movie name": "La Cage aux Folles",
+        "position": "Nominee"
+      },
+      "Peter Yates": {
+        "movie name": "Breaking Away",
+        "position": "Nominee"
+      }
+    },
+    "1980": {
+      "Robert Redford": {
+        "movie name": "Ordinary People",
+        "position": "Winner"
+      },
+      "David Lynch": {
+        "movie name": "The Elephant Man",
+        "position": "Nominee"
+      },
+      "Martin Scorsese": {
+        "movie name": "Raging Bull",
+        "position": "Nominee"
+      },
+      "Richard Rush": {
+        "movie name": "The Stunt Man",
+        "position": "Nominee"
+      },
+      "Roman Polanski": {
+        "movie name": "Tess",
+        "position": "Nominee"
+      }
+    },
+    "1981": {
+      "Warren Beatty": {
+        "movie name": "Reds",
+        "position": "Winner"
+      },
+      "Hugh Hudson": {
+        "movie name": "Chariots of Fire",
+        "position": "Nominee"
+      },
+      "Louis Malle": {
+        "movie name": "Atlantic City",
+        "position": "Nominee"
+      },
+      "Mark Rydell": {
+        "movie name": "On Golden Pond",
+        "position": "Nominee"
+      },
+      "Steven Spielberg": {
+        "movie name": "Raiders of the Lost Ark",
+        "position": "Nominee"
+      }
+    },
+    "1982": {
+      "Richard Attenborough": {
+        "movie name": "Gandhi",
+        "position": "Winner"
+      },
+      "Sidney Lumet": {
+        "movie name": "The Verdict",
+        "position": "Nominee"
+      },
+      "Wolfgang Petersen": {
+        "movie name": "Das Boot",
+        "position": "Nominee"
+      },
+      "Sydney Pollack": {
+        "movie name": "Tootsie",
+        "position": "Nominee"
+      },
+      "Steven Spielberg": {
+        "movie name": "E.T. the Extra-Terrestrial",
+        "position": "Nominee"
+      }
+    },
+    "1983": {
+      "James L. Brooks": {
+        "movie name": "Terms of Endearment",
+        "position": "Winner"
+      },
+      "Bruce Beresford": {
+        "movie name": "Tender Mercies",
+        "position": "Nominee"
+      },
+      "Ingmar Bergman": {
+        "movie name": "Fanny and Alexander",
+        "position": "Nominee"
+      },
+      "Mike Nichols": {
+        "movie name": "Silkwood",
+        "position": "Nominee"
+      },
+      "Peter Yates": {
+        "movie name": "The Dresser",
+        "position": "Nominee"
+      }
+    },
+    "1984": {
+        "Miloš Forman": {
+          "movie name": "Amadeus",
+          "position": "Winner"
+        },
+        "Woody Allen": {
+          "movie name": "Broadway Danny Rose",
+          "position": "Nominee"
+        },
+        "Robert Benton": {
+          "movie name": "Places in the Heart",
+          "position": "Nominee"
+        },
+        "Roland Joffé": {
+          "movie name": "The Killing Fields",
+          "position": "Nominee"
+        },
+        "David Lean": {
+          "movie name": "A Passage to India",
+          "position": "Nominee"
+        }
+      },
+      "1985": {
+        "Sydney Pollack": {
+          "movie name": "Out of Africa",
+          "position": "Winner"
+        },
+        "Héctor Babenco": {
+          "movie name": "Kiss of the Spider Woman",
+          "position": "Nominee"
+        },
+        "John Huston": {
+          "movie name": "Prizzi's Honor",
+          "position": "Nominee"
+        },
+        "Akira Kurosawa": {
+          "movie name": "Ran",
+          "position": "Nominee"
+        },
+        "Peter Weir": {
+          "movie name": "Witness",
+          "position": "Nominee"
+        }
+      },
+      "1986": {
+        "Oliver Stone": {
+          "movie name": "Platoon",
+          "position": "Winner"
+        },
+        "Woody Allen": {
+          "movie name": "Hannah and Her Sisters",
+          "position": "Nominee"
+        },
+        "James Ivory": {
+          "movie name": "A Room with a View",
+          "position": "Nominee"
+        },
+        "Roland Joffé": {
+          "movie name": "The Mission",
+          "position": "Nominee"
+        },
+        "David Lynch": {
+          "movie name": "Blue Velvet",
+          "position": "Nominee"
+        }
+      },
+      "1987": {
+        "Bernardo Bertolucci": {
+          "movie name": "The Last Emperor",
+          "position": "Winner"
+        },
+        "John Boorman": {
+          "movie name": "Hope and Glory",
+          "position": "Nominee"
+        },
+        "Lasse Hallström": {
+          "movie name": "My Life as a Dog",
+          "position": "Nominee"
+        },
+        "Norman Jewison": {
+          "movie name": "Moonstruck",
+          "position": "Nominee"
+        },
+        "Adrian Lyne": {
+          "movie name": "Fatal Attraction",
+          "position": "Nominee"
+        }
+      },
+      "1988": {
+        "Barry Levinson": {
+          "movie name": "Rain Man",
+          "position": "Winner"
+        },
+        "Charles Crichton": {
+          "movie name": "A Fish Called Wanda",
+          "position": "Nominee"
+        },
+        "Martin Scorsese": {
+          "movie name": "The Last Temptation of Christ",
+          "position": "Nominee"
+        },
+        "Alan Parker": {
+          "movie name": "Mississippi Burning",
+          "position": "Nominee"
+        },
+        "Mike Nichols": {
+          "movie name": "Working Girl",
+          "position": "Nominee"
+        }
+      },
+      "1989": {
+        "Oliver Stone": {
+          "movie name": "Born on the Fourth of July",
+          "position": "Winner"
+        },
+        "Woody Allen": {
+          "movie name": "Crimes and Misdemeanors",
+          "position": "Nominee"
+        },
+        "Kenneth Branagh": {
+          "movie name": "Henry V",
+          "position": "Nominee"
+        },
+        "Jim Sheridan": {
+          "movie name": "My Left Foot",
+          "position": "Nominee"
+        },
+        "Peter Weir": {
+          "movie name": "Dead Poets Society",
+          "position": "Nominee"
+        }
+      },
+      "1990": {
+        "Kevin Costner": {
+          "movie name": "Dances with Wolves",
+          "position": "Winner"
+        },
+        "Francis Ford Coppola": {
+          "movie name": "The Godfather Part III",
+          "position": "Nominee"
+        },
+        "Stephen Frears": {
+          "movie name": "The Grifters",
+          "position": "Nominee"
+        },
+        "Barbet Schroeder": {
+          "movie name": "Reversal of Fortune",
+          "position": "Nominee"
+        },
+        "Martin Scorsese": {
+          "movie name": "Goodfellas",
+          "position": "Nominee"
+        }
+      },
+      "1991": {
+        "Jonathan Demme": {
+          "movie name": "The Silence of the Lambs",
+          "position": "Winner"
+        },
+        "John Singleton": {
+          "movie name": "Boyz n the Hood",
+          "position": "Nominee"
+        },
+        "Barry Levinson": {
+          "movie name": "Bugsy",
+          "position": "Nominee"
+        },
+        "Oliver Stone": {
+          "movie name": "JFK",
+          "position": "Nominee"
+        },
+        "Ridley Scott": {
+          "movie name": "Thelma & Louise",
+          "position": "Nominee"
+        }
+      },
+      "1992": {
+        "Clint Eastwood": {
+          "movie name": "Unforgiven",
+          "position": "Winner"
+        },
+        "Robert Altman": {
+          "movie name": "The Player",
+          "position": "Nominee"
+        },
+        "Martin Brest": {
+          "movie name": "Scent of a Woman",
+          "position": "Nominee"
+        },
+        "James Ivory": {
+          "movie name": "Howards End",
+          "position": "Nominee"
+        },
+        "Neil Jordan": {
+          "movie name": "The Crying Game",
+          "position": "Nominee"
+        }
+      },
+      "1993": {
+        "Steven Spielberg": {
+          "movie name": "Schindler's List",
+          "position": "Winner"
+        },
+        "Jane Campion": {
+          "movie name": "The Piano",
+          "position": "Nominee"
+        },
+        "James Ivory": {
+          "movie name": "The Remains of the Day",
+          "position": "Nominee"
+        },
+        "Jim Sheridan": {
+          "movie name": "In the Name of the Father",
+          "position": "Nominee"
+        },
+        "Robert Altman": {
+          "movie name": "Short Cuts",
+          "position": "Nominee"
+        }
+      },
+      "1994": {
+        "Robert Zemeckis": {
+          "movie name": "Forrest Gump",
+          "position": "Winner"
+        },
+        "Woody Allen": {
+          "movie name": "Bullets over Broadway",
+          "position": "Nominee"
+        },
+        "Krzysztof Kieślowski": {
+          "movie name": "Three Colors: Red",
+          "position": "Nominee"
+        },
+        "Robert Redford": {
+          "movie name": "Quiz Show",
+          "position": "Nominee"
+        },
+        "Quentin Tarantino": {
+          "movie name": "Pulp Fiction",
+          "position": "Nominee"
+        }
+      },
+      "1995": {
+        "Mel Gibson": {
+          "movie name": "Braveheart",
+          "position": "Winner"
+        },
+        "Mike Figgis": {
+          "movie name": "Leaving Las Vegas",
+          "position": "Nominee"
+        },
+        "Chris Noonan": {
+          "movie name": "Babe",
+          "position": "Nominee"
+        },
+        "Michael Radford": {
+          "movie name": "Il Postino: The Postman",
+          "position": "Nominee"
+        },
+        "Tim Robbins": {
+          "movie name": "Dead Man Walking",
+          "position": "Nominee"
+        }
+      }
+}
+
+        

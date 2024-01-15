@@ -1,0 +1,14 @@
+Produced by Manhattan Theatre Club (Lynne Meadow, Artistic Director; 
+Co-Produced by Hunter Arnold
+Executive Producer: D.S. Moynihan
+Produced in association with
+Presenting the production by The Public Theater (Oskar Eustis,
+Consulting Producer: 
+This production was originally produced and presented in July 2012 by
+Originally produced by Tectonic Theater Project (
+Originally produced in July 2001 by The Public Theater
+President, Walt Disney Theatrical Productions: Ron Logan;
+Vice President and Producer, Walt Disney Theatrical Productions: Robert McTyre
+
+Give me a code that given a json file with the following structure: year:{ category:{ subcategory:{ information_of_subcategory}}} only modifies the subcategories  inside the category: program. Each of these subcategories  will now have the format: subcategory: {staff_name:{name_of_work: "work"
+              winner: true or false}}. The subcategories are currently in the format: subcategory: name_of_work\n(winner or nominee)\nstaff_information                  In winner or nominee if it says Winner then winner is true, otherwise it's false. In staff information only extract the lines that begin exactly with: staff_lines_to_keep = ['Produced by', 'Co-Produced by', 'Executive Producer:', 'Produced in association with', 'Presenting the production by', 'Consulting Producer:', 'This production was originally produced and presented in July 2012 by', 'Originally produced by', 'Originally produced in July 2001 by']
