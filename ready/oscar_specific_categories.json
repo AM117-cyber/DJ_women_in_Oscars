@@ -3,7 +3,7 @@
         "DIRECTING": {
             "Bob Fosse": {
                 "name_of_work": "Cabaret",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John Boorman": {
@@ -55,12 +55,12 @@
             },
             "Howard Smith": {
                 "name_of_work": "Marjoe",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Sarah Kernochan": {
                 "name_of_work": "Marjoe",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Eckehard Munck": {
@@ -82,17 +82,17 @@
             },
             "Charles Chaplin": {
                 "name_of_work": "Limelight",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Raymond Rasch": {
                 "name_of_work": "Limelight",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Larry Russell": {
                 "name_of_work": "Limelight",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Buddy Baker": {
@@ -109,7 +109,7 @@
         "MUSIC (Scoring: Adaptation and Original Song Score)": {
             "Ralph Burn": {
                 "name_of_work": "Cabaret",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Gil Askey": {
@@ -146,12 +146,12 @@
             },
             "Al Kasha": {
                 "name_of_work": "\"The Morning After\" from The Poseidon Adventure",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Joel Hirschhorn": {
                 "name_of_work": "\"The Morning After\" from The Poseidon Adventure",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Sammy Fain": {
@@ -178,7 +178,7 @@
             },
             "Albert S. Ruddy": {
                 "name_of_work": "The Godfather",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Robert B. Radnitz": {
@@ -190,7 +190,7 @@
         "SHORT SUBJECT (Animated)": {
             "Richard William": {
                 "name_of_work": "A Christmas Carol",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bob Godfrey": {
@@ -217,7 +217,7 @@
             },
             "Richard Barclay": {
                 "name_of_work": "Norman Rockwell's World...An American Dream",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "David Adam": {
@@ -244,12 +244,12 @@
             },
             "Mario Puzo": {
                 "name_of_work": "The Godfather",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Francis Ford Coppola": {
                 "name_of_work": "The Godfather",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Julius J. Epstein": {
@@ -266,7 +266,7 @@
         "WRITING (Story and Screenplay--based on factual material or material not previously published or produced)": {
             "Jeremy Larner": {
                 "name_of_work": "The Candidate",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Luis Bu\u00c3\u00b1uel": {
@@ -330,7 +330,7 @@
             },
             "George Roy Hill": {
                 "name_of_work": "The Sting",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -347,7 +347,7 @@
             },
             "Kieth Merrill": {
                 "name_of_work": "The Great American Cowboy",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alex Grasshoff": {
@@ -389,7 +389,7 @@
             },
             "Marvin Hamlisch": {
                 "name_of_work": "The Way We Were",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -411,7 +411,7 @@
             },
             "Marvin Hamlisch": {
                 "name_of_work": "The Sting",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Richard M. Sherman": {
@@ -453,12 +453,12 @@
             },
             "Marvin Hamlisch": {
                 "name_of_work": "\"The Way We Were\" from The Way We Were",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Marilyn Bergman": {
                 "name_of_work": "\"The Way We Were\" from The Way We Were",
-                "winner": false,
+                "winner": true,
                 "gender": "female"
             }
         },
@@ -490,17 +490,17 @@
             },
             "Tony Bill": {
                 "name_of_work": "The Sting",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Phillip": {
                 "name_of_work": "The Sting",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Julia Phillip": {
                 "name_of_work": "The Sting",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Melvin Frank": {
@@ -512,7 +512,7 @@
         "SHORT SUBJECT (Animated)": {
             "Frank Mouri": {
                 "name_of_work": "Frank Film",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Nick Bosustow": {
@@ -539,12 +539,12 @@
         "SHORT SUBJECT (Live Action)": {
             "Allan Miller": {
                 "name_of_work": "The Bolero",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "William Fertik": {
                 "name_of_work": "The Bolero",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Richard Gayer": {
@@ -566,7 +566,7 @@
         "WRITING (Screenplay--based on material from another medium)": {
             "William Peter Blatty": {
                 "name_of_work": "The Exorcist",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Robert Towne": {
@@ -623,7 +623,7 @@
             },
             "David S. Ward": {
                 "name_of_work": "The Sting",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Melvin Frank": {
@@ -652,7 +652,7 @@
             },
             "Francis Ford Coppola": {
                 "name_of_work": "The Godfather Part II",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bob Fosse": {
@@ -699,12 +699,12 @@
             },
             "Peter Davi": {
                 "name_of_work": "Hearts and Minds",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bert Schneider": {
                 "name_of_work": "Hearts and Minds",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Natalie R. Jone": {
@@ -726,12 +726,12 @@
             },
             "Nino Rota": {
                 "name_of_work": "The Godfather Part II",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Carmine Coppola": {
                 "name_of_work": "The Godfather Part II",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Richard Rodney Bennett": {
@@ -753,7 +753,7 @@
         "MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)": {
             "Nelson Riddle": {
                 "name_of_work": "The Great Gatsby",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alan Jay Lerner": {
@@ -800,12 +800,12 @@
             },
             "Al Kasha": {
                 "name_of_work": "\"We May Never Love Like This Again\" from The Towering Inferno",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Joel Hirschhorn": {
                 "name_of_work": "\"We May Never Love Like This Again\" from The Towering Inferno",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Elmer Bernstein": {
@@ -822,22 +822,22 @@
             },
             "Francis Ford Coppola": {
                 "name_of_work": "The Godfather Part II",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Fred Roo": {
                 "name_of_work": "The Godfather Part II",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Co-Producer": {
                 "name_of_work": "The Godfather Part II",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Gray Frederickson": {
                 "name_of_work": "The Godfather Part II",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Marvin Worth": {
@@ -854,12 +854,12 @@
         "SHORT FILM (Animated)": {
             "Will Vinton": {
                 "name_of_work": "Closed Mondays",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bob Gardiner": {
                 "name_of_work": "Closed Mondays",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Yvon Mallette": {
@@ -916,12 +916,12 @@
             },
             "Paul Claudon": {
                 "name_of_work": "One-Eyed Men Are Kings",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Edmond Sechan": {
                 "name_of_work": "One-Eyed Men Are Kings",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "George V. Casey": {
@@ -948,7 +948,7 @@
             },
             "Robert Towne": {
                 "name_of_work": "Chinatown",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Francis Ford Coppola": {
@@ -990,12 +990,12 @@
             },
             "Francis Ford Coppola": {
                 "name_of_work": "The Godfather Part II",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Mario Puzo": {
                 "name_of_work": "The Godfather Part II",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Julian Barry": {
@@ -1044,7 +1044,7 @@
             },
             "Milos Forman": {
                 "name_of_work": "One Flew over the Cuckoo's Nest",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -1071,17 +1071,17 @@
             },
             "F. R. Crawley": {
                 "name_of_work": "The Man Who Skied down Everest",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "James Hager": {
                 "name_of_work": "The Man Who Skied down Everest",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dale Hartleben": {
                 "name_of_work": "The Man Who Skied down Everest",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Shirley MacLaine": {
@@ -1103,7 +1103,7 @@
             },
             "John William": {
                 "name_of_work": "Jaws",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jack Nitzsche": {
@@ -1120,7 +1120,7 @@
         "MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)": {
             "Leonard Rosenman": {
                 "name_of_work": "Barry Lyndon",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Peter Matz": {
@@ -1147,7 +1147,7 @@
             },
             "Keith Carradine": {
                 "name_of_work": "\"I'm Easy\" from Nashville",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "George Barrie": {
@@ -1199,19 +1199,19 @@
             },
             "Saul Zaentz": {
                 "name_of_work": "One Flew over the Cuckoo's Nest",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Dougla": {
                 "name_of_work": "One Flew over the Cuckoo's Nest",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "SHORT FILM (Animated)": {
             "Bob Godfrey": {
                 "name_of_work": "Great",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Robert Swarthe": {
@@ -1243,7 +1243,7 @@
         "SHORT FILM (Live Action)": {
             "Bert Salzman": {
                 "name_of_work": "Angel and Big Joe",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Louis Marcu": {
@@ -1295,7 +1295,7 @@
             },
             "Frank Pierson": {
                 "name_of_work": "Dog Day Afternoon",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ted Allan": {
@@ -1332,12 +1332,12 @@
             },
             "Lawrence Hauben": {
                 "name_of_work": "One Flew over the Cuckoo's Nest",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bo Goldman": {
                 "name_of_work": "One Flew over the Cuckoo's Nest",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ruggero Maccari": {
@@ -1376,10 +1376,10 @@
             },
             "John G. Avildsen": {
                 "name_of_work": "Rocky",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
-            "Lina Wertm\u00c3\u00bcller": {
+            "Lina Wertmüller": {
                 "name_of_work": "Seven Beauties",
                 "winner": false,
                 "gender": "female"
@@ -1388,7 +1388,7 @@
         "DOCUMENTARY (Feature)": {
             "Barbara Kopple": {
                 "name_of_work": "Harlan County, U.S.A.",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "James Gutman": {
@@ -1435,7 +1435,7 @@
             },
             "Jerry Goldsmith": {
                 "name_of_work": "The Omen",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jerry Fielding": {
@@ -1452,7 +1452,7 @@
         "MUSIC (Original Song Score and Its Adaptation or Adaptation Score)": {
             "Leonard Rosenman": {
                 "name_of_work": "Bound for Glory",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Song Score": {
@@ -1484,7 +1484,7 @@
             },
             "Barbra Streisand": {
                 "name_of_work": "\"Evergreen (Love Theme From A Star Is Born)\" from A Star Is Born",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Bill Conti": {
@@ -1526,12 +1526,12 @@
             },
             "Irwin Winkler": {
                 "name_of_work": "Rocky",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Robert Chartoff": {
                 "name_of_work": "Rocky",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Phillip": {
@@ -1553,7 +1553,7 @@
             },
             "Suzanne Baker": {
                 "name_of_work": "Leisure",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Caroline Leaf": {
@@ -1570,12 +1570,12 @@
         "SHORT FILM (Live Action)": {
             "Andre Guttfreund": {
                 "name_of_work": "In the Region of Ice",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Peter Werner": {
                 "name_of_work": "In the Region of Ice",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Marjorie Anne Short": {
@@ -1617,7 +1617,7 @@
         "WRITING (Screenplay--based on material from another medium)": {
             "William Goldman": {
                 "name_of_work": "All the President's Men",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Robert Getchell": {
@@ -1664,7 +1664,7 @@
             },
             "Paddy Chayefsky": {
                 "name_of_work": "Network",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Sylvester Stallone": {
@@ -1672,7 +1672,7 @@
                 "winner": false,
                 "gender": "male"
             },
-            "Lina Wertm\u00c3\u00bcller": {
+            "Lina Wertmüller": {
                 "name_of_work": "Seven Beauties",
                 "winner": false,
                 "gender": "female"
@@ -1683,7 +1683,7 @@
         "DIRECTING": {
             "Woody Allen": {
                 "name_of_work": "Annie Hall",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Steven Spielberg": {
@@ -1755,24 +1755,24 @@
             },
             "John Korty": {
                 "name_of_work": "Who Are the DeBolts? And Where Did They Get Nineteen Kids?",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dan McCann": {
                 "name_of_work": "Who Are the DeBolts? And Where Did They Get Nineteen Kids?",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Warren L. Lockhart": {
                 "name_of_work": "Who Are the DeBolts? And Where Did They Get Nineteen Kids?",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "MUSIC (Original Score)": {
             "John William": {
                 "name_of_work": "Star Wars",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Georges Delerue": {
@@ -1794,7 +1794,7 @@
         "MUSIC (Original Song Score and Its Adaptation or Adaptation Score)": {
             "Jonathan Tunick": {
                 "name_of_work": "A Little Night Music",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Al Kasha": {
@@ -1856,14 +1856,14 @@
             },
             "Joseph Brook": {
                 "name_of_work": "\"You Light Up My Life\" from You Light Up My Life",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "BEST PICTURE": {
             "Charles H. Joffe": {
                 "name_of_work": "Annie Hall",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ray Stark": {
@@ -1930,7 +1930,7 @@
             },
             "Co Hoedeman": {
                 "name_of_work": "The Sand Castle",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -1947,12 +1947,12 @@
             },
             "Beverly Shaffer": {
                 "name_of_work": "I'll Find a Way",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Yuki Yoshida": {
                 "name_of_work": "I'll Find a Way",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Saul Ba": {
@@ -1984,7 +1984,7 @@
             },
             "Alvin Sargent": {
                 "name_of_work": "Julia",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Larry Gelbart": {
@@ -2006,12 +2006,12 @@
         "WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced)": {
             "Woody Allen": {
                 "name_of_work": "Annie Hall",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Marshall Brickman": {
                 "name_of_work": "Annie Hall",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Neil Simon": {
@@ -2045,7 +2045,7 @@
             },
             "Michael Cimino": {
                 "name_of_work": "The Deer Hunter",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Warren Beatty": {
@@ -2097,7 +2097,7 @@
             },
             "Arnold Shapiro": {
                 "name_of_work": "Scared Straight!",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Anne Bohlen": {
@@ -2119,7 +2119,7 @@
         "MUSIC (Adaptation Score)": {
             "Joe Renzetti": {
                 "name_of_work": "The Buddy Holly Story",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jerry Wexler": {
@@ -2151,7 +2151,7 @@
             },
             "Giorgio Moroder": {
                 "name_of_work": "Midnight Express",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John William": {
@@ -2168,7 +2168,7 @@
             },
             "Paul Jabara": {
                 "name_of_work": "\"Last Dance\" from Thank God It's Friday",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Marvin Hamlisch": {
@@ -2205,22 +2205,22 @@
             },
             "Barry Spiking": {
                 "name_of_work": "The Deer Hunter",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Deeley": {
                 "name_of_work": "The Deer Hunter",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Cimino": {
                 "name_of_work": "The Deer Hunter",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John Peverall": {
                 "name_of_work": "The Deer Hunter",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Warren Beatty": {
@@ -2262,12 +2262,12 @@
             },
             "Eunice Macaulay": {
                 "name_of_work": "Special Delivery",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "John Weldon": {
                 "name_of_work": "Special Delivery",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -2294,7 +2294,7 @@
             },
             "Taylor Hackford": {
                 "name_of_work": "Teenage Father",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -2321,7 +2321,7 @@
             },
             "Oliver Stone": {
                 "name_of_work": "Midnight Express",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bernard Slade": {
@@ -2338,7 +2338,7 @@
             },
             "Nancy Dowd": {
                 "name_of_work": "Coming Home",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Michael Cimino": {
@@ -2392,7 +2392,7 @@
             },
             "Robert Benton": {
                 "name_of_work": "Kramer vs. Kramer",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Edouard Molinaro": {
@@ -2404,7 +2404,7 @@
         "DOCUMENTARY (Feature)": {
             "Ira Wohl": {
                 "name_of_work": "Best Boy",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "David A. Vassar": {
@@ -2456,7 +2456,7 @@
             },
             "Georges Delerue": {
                 "name_of_work": "A Little Romance",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jerry Goldsmith": {
@@ -2473,7 +2473,7 @@
         "MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score)": {
             "Ralph Burn": {
                 "name_of_work": "All That Jazz",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Patrick William": {
@@ -2490,7 +2490,7 @@
         "MUSIC (Original Song)": {
             "David Shire": {
                 "name_of_work": "\"It Goes Like It Goes\" from Norma Rae",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Marilyn Bergman": {
@@ -2557,7 +2557,7 @@
             },
             "Stanley R. Jaffe": {
                 "name_of_work": "Kramer vs. Kramer",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Tamara Asseyev": {
@@ -2584,7 +2584,7 @@
             },
             "Derek Lamb": {
                 "name_of_work": "Every Child",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Paul Fierlinger": {
@@ -2596,12 +2596,12 @@
         "SHORT FILM (Live Action)": {
             "Sarah Pillsbury": {
                 "name_of_work": "Board and Care",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Ron Elli": {
                 "name_of_work": "Board and Care",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Roman Kroitor": {
@@ -2663,7 +2663,7 @@
             },
             "Robert Benton": {
                 "name_of_work": "Kramer vs. Kramer",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Francis Veber": {
@@ -2725,7 +2725,7 @@
             },
             "Steve Tesich": {
                 "name_of_work": "Breaking Away",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Mike Gray": {
@@ -2764,7 +2764,7 @@
             },
             "Robert Redford": {
                 "name_of_work": "Ordinary People",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Martin Scorsese": {
@@ -2796,7 +2796,7 @@
             },
             "Murray Lerner": {
                 "name_of_work": "From Mao to Mozart: Isaac Stern in China",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "David Bradbury": {
@@ -2833,7 +2833,7 @@
             },
             "Michael Gore": {
                 "name_of_work": "Fame",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Philippe Sarde": {
@@ -2845,7 +2845,7 @@
         "MUSIC (Original Song)": {
             "Michael Gore": {
                 "name_of_work": "\"Out Here On My Own\" from Fame",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dolly Parton": {
@@ -2877,7 +2877,7 @@
             },
             "Ronald L. Schwary": {
                 "name_of_work": "Ordinary People",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Irwin Winkler": {
@@ -2914,7 +2914,7 @@
             },
             "Ferenc Rofusz": {
                 "name_of_work": "The Fly",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Mill": {
@@ -2926,7 +2926,7 @@
         "SHORT FILM (Dramatic Live Action)": {
             "Lloyd Phillip": {
                 "name_of_work": "The Dollar Bottom",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bob Carmichael": {
@@ -2983,7 +2983,7 @@
             },
             "Alvin Sargent": {
                 "name_of_work": "Ordinary People",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lawrence B. Marcu": {
@@ -3005,7 +3005,7 @@
             },
             "Bo Goldman": {
                 "name_of_work": "Melvin and Howard",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jean Gruault": {
@@ -3054,7 +3054,7 @@
             },
             "Warren Beatty": {
                 "name_of_work": "Reds",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -3106,19 +3106,19 @@
             },
             "Arnold Schwartzman": {
                 "name_of_work": "Genocide",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Rabbi Marvin Hier": {
                 "name_of_work": "Genocide",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "MUSIC (Original Score)": {
             "Vangeli": {
                 "name_of_work": "Chariots of Fire",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alex North": {
@@ -3145,22 +3145,22 @@
         "MUSIC (Original Song)": {
             "Burt Bacharach": {
                 "name_of_work": "\"Arthur's Theme (Best That You Can Do)\" from Arthur",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Carole Bayer Sager": {
                 "name_of_work": "\"Arthur's Theme (Best That You Can Do)\" from Arthur",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Christopher Cro": {
                 "name_of_work": "\"Arthur's Theme (Best That You Can Do)\" from Arthur",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Peter Allen": {
                 "name_of_work": "\"Arthur's Theme (Best That You Can Do)\" from Arthur",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lionel Richie": {
@@ -3197,7 +3197,7 @@
             },
             "David Puttnam": {
                 "name_of_work": "Chariots of Fire",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bruce Gilbert": {
@@ -3219,7 +3219,7 @@
         "SHORT FILM (Animated)": {
             "Fr\u00c3\u00a9d\u00c3\u00a9ric Back": {
                 "name_of_work": "Crac",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Will Vinton": {
@@ -3246,12 +3246,12 @@
             },
             "Paul Kemp": {
                 "name_of_work": "Violet",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Shelley Levinson": {
                 "name_of_work": "Violet",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
@@ -3263,7 +3263,7 @@
             },
             "Ernest Thompson": {
                 "name_of_work": "On Golden Pond",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dennis Potter": {
@@ -3305,7 +3305,7 @@
             },
             "Colin Welland": {
                 "name_of_work": "Chariots of Fire",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Warren Beatty": {
@@ -3334,7 +3334,7 @@
             },
             "Richard Attenborough": {
                 "name_of_work": "Gandhi",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Sydney Pollack": {
@@ -3376,7 +3376,7 @@
             },
             "John Zaritsky": {
                 "name_of_work": "Just Another Missing Kid",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Joseph Wishy": {
@@ -3388,7 +3388,7 @@
         "MUSIC (Original Score)": {
             "John William": {
                 "name_of_work": "E.T. The Extra-Terrestrial",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ravi Shankar": {
@@ -3430,7 +3430,7 @@
             },
             "Henry Mancini": {
                 "name_of_work": "Victor/Victoria",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -3467,12 +3467,12 @@
             },
             "Jack Nitzsche": {
                 "name_of_work": "\"Up Where We Belong\" from An Officer and a Gentleman",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Will Jenning": {
                 "name_of_work": "\"Up Where We Belong\" from An Officer and a Gentleman",
-                "winner": false,
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -3489,7 +3489,7 @@
             },
             "Richard Attenborough": {
                 "name_of_work": "Gandhi",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Edward Lewi": {
@@ -3536,7 +3536,7 @@
             },
             "Zbigniew Rybczynski": {
                 "name_of_work": "Tango",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -3548,7 +3548,7 @@
             },
             "Christine Oestreicher": {
                 "name_of_work": "A Shocking Accident",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Michael Toshiyuki Uno": {
@@ -3580,12 +3580,12 @@
             },
             "Costa-Gavra": {
                 "name_of_work": "Missing",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Donald Stewart": {
                 "name_of_work": "Missing",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alan J. Pakula": {
@@ -3617,7 +3617,7 @@
             },
             "John Briley": {
                 "name_of_work": "Gandhi",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Douglas Day Stewart": {
@@ -3661,7 +3661,7 @@
             },
             "James L. Brook": {
                 "name_of_work": "Terms of Endearment",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -3688,7 +3688,7 @@
             },
             "Emile Ardolino": {
                 "name_of_work": "He Makes Me Feel Like Dancin'",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Bryan": {
@@ -3725,7 +3725,7 @@
             },
             "Bill Conti": {
                 "name_of_work": "The Right Stuff",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Gore": {
@@ -3752,29 +3752,29 @@
             },
             "Michel Legrand": {
                 "name_of_work": "Yentl",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Alan Bergman": {
                 "name_of_work": "Yentl",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Marilyn Bergman": {
                 "name_of_work": "Yentl",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
         "MUSIC (Original Song)": {
             "Giorgio Moroder": {
                 "name_of_work": "\"Flashdance...What A Feeling\" from Flashdance",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Irene Cara": {
                 "name_of_work": "\"Flashdance...What A Feeling\" from Flashdance",
-                "winner": false,
+                "winner": true,
                 "gender": "female"
             },
             "Michael Sembello": {
@@ -3836,7 +3836,7 @@
             },
             "James L. Brook": {
                 "name_of_work": "Terms of Endearment",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -3853,14 +3853,14 @@
             },
             "Jimmy Picker": {
                 "name_of_work": "Sundae in New York",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "SHORT FILM (Live Action)": {
             "Janice L. Platt": {
                 "name_of_work": "Boys and Girls",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Ian Eme": {
@@ -3897,7 +3897,7 @@
             },
             "James L. Brook": {
                 "name_of_work": "Terms of Endearment",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -3929,7 +3929,7 @@
             },
             "Horton Foote": {
                 "name_of_work": "Tender Mercies",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lawrence Lasker": {
@@ -3948,7 +3948,7 @@
         "DIRECTING": {
             "Milos Forman": {
                 "name_of_work": "Amadeus",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Woody Allen": {
@@ -4010,12 +4010,12 @@
             },
             "Robert Epstein": {
                 "name_of_work": "The Times of Harvey Milk",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Richard Schmiechen": {
                 "name_of_work": "The Times of Harvey Milk",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -4032,7 +4032,7 @@
             },
             "Maurice Jarre": {
                 "name_of_work": "A Passage to India",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alex North": {
@@ -4049,7 +4049,7 @@
             },
             "Prince": {
                 "name_of_work": "Purple Rain",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kris Kristofferson": {
@@ -4081,7 +4081,7 @@
             },
             "Stevie Wonder": {
                 "name_of_work": "\"I Just Called To Say I Love You\" from The Woman in Red",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Tom Snow": {
@@ -4093,7 +4093,7 @@
         "BEST PICTURE": {
             "Saul Zaentz": {
                 "name_of_work": "Amadeus",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "David Puttnam": {
@@ -4135,7 +4135,7 @@
         "SHORT FILM (Animated)": {
             "Jon Minni": {
                 "name_of_work": "Charade",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Morton Schindel": {
@@ -4177,14 +4177,14 @@
             },
             "Mike Hoover": {
                 "name_of_work": "Up",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "WRITING (Screenplay Based on Material from Another Medium)": {
             "Peter Shaffer": {
                 "name_of_work": "Amadeus",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "P.H. Vazak": {
@@ -4236,7 +4236,7 @@
             },
             "Robert Benton": {
                 "name_of_work": "Places in the Heart",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lowell Ganz": {
@@ -4265,7 +4265,7 @@
             },
             "Sydney Pollack": {
                 "name_of_work": "Out of Africa",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John Huston": {
@@ -4287,12 +4287,12 @@
         "DOCUMENTARY (Feature)": {
             "Maria Florio": {
                 "name_of_work": "Broken Rainbow",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Victoria Mudd": {
                 "name_of_work": "Broken Rainbow",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Susana Mu\u00c3\u00b1oz": {
@@ -4394,7 +4394,7 @@
             },
             "John Barry": {
                 "name_of_work": "Out of Africa",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bruce Broughton": {
@@ -4421,7 +4421,7 @@
             },
             "Lionel Richie": {
                 "name_of_work": "\"Say You, Say Me\" from White Nights",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Chris Haye": {
@@ -4473,7 +4473,7 @@
             },
             "Sydney Pollack": {
                 "name_of_work": "Out of Africa",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John Foreman": {
@@ -4490,7 +4490,7 @@
         "SHORT FILM (Animated)": {
             "Cilia Van Dijk": {
                 "name_of_work": "Anna & Bella",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Richard Condie": {
@@ -4517,12 +4517,12 @@
             },
             "Jeff Brown": {
                 "name_of_work": "Molly's Pilgrim",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Chris Pelzer": {
                 "name_of_work": "Molly's Pilgrim",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bob Roger": {
@@ -4544,7 +4544,7 @@
             },
             "Kurt Luedtke": {
                 "name_of_work": "Out of Africa",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Richard Condon": {
@@ -4606,12 +4606,12 @@
             },
             "Earl W. Wallace": {
                 "name_of_work": "Witness",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "William Kelley": {
                 "name_of_work": "Witness",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         }
@@ -4635,7 +4635,7 @@
             },
             "Oliver Stone": {
                 "name_of_work": "Platoon",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "James Ivory": {
@@ -4647,7 +4647,7 @@
         "DOCUMENTARY (Feature)": {
             "Brigitte Berman": {
                 "name_of_work": "Artie Shaw: Time Is All You've Got",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "David Bradbury": {
@@ -4657,12 +4657,12 @@
             },
             "Joseph Feury": {
                 "name_of_work": "Down and Out in America",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Milton Justice": {
                 "name_of_work": "Down and Out in America",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kirk Simon": {
@@ -4699,7 +4699,7 @@
             },
             "Herbie Hancock": {
                 "name_of_work": "'Round Midnight",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Leonard Rosenman": {
@@ -4741,7 +4741,7 @@
             },
             "Giorgio Moroder": {
                 "name_of_work": "\"Take My Breath Away\" from Top Gun",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -4773,7 +4773,7 @@
             },
             "Arnold Kopelson": {
                 "name_of_work": "Platoon",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ismail Merchant": {
@@ -4790,12 +4790,12 @@
             },
             "Linda Van Tulden": {
                 "name_of_work": "A Greek Tragedy",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Willem Thijssen": {
                 "name_of_work": "A Greek Tragedy",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John Lasseter": {
@@ -4827,7 +4827,7 @@
             },
             "Chuck Workman": {
                 "name_of_work": "Precious Images",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -4854,7 +4854,7 @@
             },
             "Ruth Prawer Jhabvala": {
                 "name_of_work": "A Room with a View",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Raynold Gideon": {
@@ -4886,7 +4886,7 @@
             },
             "Woody Allen": {
                 "name_of_work": "Hannah and Her Sisters",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Hanif Kureishi": {
@@ -4920,7 +4920,7 @@
             },
             "Bernardo Bertolucci": {
                 "name_of_work": "The Last Emperor",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Norman Jewison": {
@@ -4972,7 +4972,7 @@
             },
             "Aviva Slesin": {
                 "name_of_work": "The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
@@ -4994,17 +4994,17 @@
             },
             "Ryuichi Sakamoto": {
                 "name_of_work": "The Last Emperor",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "David Byrne": {
                 "name_of_work": "The Last Emperor",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Cong Su": {
                 "name_of_work": "The Last Emperor",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ennio Morricone": {
@@ -5026,12 +5026,12 @@
             },
             "Franke Previte": {
                 "name_of_work": "\"(I've Had) The Time Of My Life\" from Dirty Dancing",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John DeNicola": {
                 "name_of_work": "\"(I've Had) The Time Of My Life\" from Dirty Dancing",
-                "winner": false,
+                "winner": true,
                 "gender": "male"
             },
             "Albert Hammond": {
@@ -5088,7 +5088,7 @@
             },
             "Jeremy Thoma": {
                 "name_of_work": "The Last Emperor",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Patrick Palmer": {
@@ -5110,7 +5110,7 @@
             },
             "Fr\u00c3\u00a9d\u00c3\u00a9ric Back": {
                 "name_of_work": "The Man Who Planted Trees",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bill Plympton": {
@@ -5127,12 +5127,12 @@
             },
             "Jonathan Sanger": {
                 "name_of_work": "Ray's Male Heterosexual Dance Hall",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jana Sue Memel": {
                 "name_of_work": "Ray's Male Heterosexual Dance Hall",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Robert A. Katz": {
@@ -5169,12 +5169,12 @@
             },
             "Mark Peploe": {
                 "name_of_work": "The Last Emperor",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bernardo Bertolucci": {
                 "name_of_work": "The Last Emperor",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lasse Hallstr\u00c3\u00b6m": {
@@ -5216,7 +5216,7 @@
             },
             "John Patrick Shanley": {
                 "name_of_work": "Moonstruck",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Woody Allen": {
@@ -5245,7 +5245,7 @@
             },
             "Barry Levinson": {
                 "name_of_work": "Rain Man",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Mike Nichol": {
@@ -5267,7 +5267,7 @@
             },
             "Marcel Ophul": {
                 "name_of_work": "Hotel Terminus: The Life and Times of Klaus Barbie",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bruce Weber": {
@@ -5314,7 +5314,7 @@
             },
             "Dave Grusin": {
                 "name_of_work": "The Milagro Beanfield War",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Hans Zimmer": {
@@ -5331,7 +5331,7 @@
             },
             "Carly Simon": {
                 "name_of_work": "\"Let The River Run\" from Working Girl",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Lamont Dozier": {
@@ -5378,7 +5378,7 @@
             },
             "Mark Johnson": {
                 "name_of_work": "Rain Man",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Douglas Wick": {
@@ -5405,24 +5405,24 @@
             },
             "John Lasseter": {
                 "name_of_work": "Tin Toy",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "William Reeve": {
                 "name_of_work": "Tin Toy",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "SHORT FILM (Live Action)": {
             "Dean Parisot": {
                 "name_of_work": "The Appointments of Dennis Jennings",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Steven Wright": {
                 "name_of_work": "The Appointments of Dennis Jennings",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Matia Karrell": {
@@ -5459,7 +5459,7 @@
             },
             "Christopher Hampton": {
                 "name_of_work": "Dangerous Liaisons",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Anna Hamilton Phelan": {
@@ -5506,12 +5506,12 @@
             },
             "Ronald Ba": {
                 "name_of_work": "Rain Man",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Barry Morrow": {
                 "name_of_work": "Rain Man",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Naomi Foner": {
@@ -5525,7 +5525,7 @@
         "DIRECTING": {
             "Oliver Stone": {
                 "name_of_work": "Born on the Fourth of July",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Woody Allen": {
@@ -5562,12 +5562,12 @@
             },
             "Robert Epstein": {
                 "name_of_work": "Common Threads: Stories from the Quilt",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bill Couturi\u00c3\u00a9": {
                 "name_of_work": "Common Threads: Stories from the Quilt",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Vince DiPersio": {
@@ -5619,7 +5619,7 @@
             },
             "Alan Menken": {
                 "name_of_work": "The Little Mermaid",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -5646,7 +5646,7 @@
             },
             "Alan Menken": {
                 "name_of_work": "\"Under The Sea\" from The Little Mermaid",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -5678,12 +5678,12 @@
             },
             "Richard D. Zanuck": {
                 "name_of_work": "Driving Miss Daisy",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lili Fini Zanuck": {
                 "name_of_work": "Driving Miss Daisy",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Lawrence Gordon": {
@@ -5705,12 +5705,12 @@
         "SHORT FILM (Animated)": {
             "Christoph Lauenstein": {
                 "name_of_work": "Balance",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Wolfgang Lauenstein": {
                 "name_of_work": "Balance",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alexander Petrov": {
@@ -5737,7 +5737,7 @@
             },
             "James Hendrie": {
                 "name_of_work": "Work Experience",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -5754,7 +5754,7 @@
             },
             "Alfred Uhry": {
                 "name_of_work": "Driving Miss Daisy",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Roger L. Simon": {
@@ -5791,7 +5791,7 @@
             },
             "Tom Schulman": {
                 "name_of_work": "Dead Poets Society",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Spike Lee": {
@@ -5815,7 +5815,7 @@
         "DIRECTING": {
             "Kevin Costner": {
                 "name_of_work": "Dances With Wolves",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Francis Ford Coppola": {
@@ -5842,12 +5842,12 @@
         "DOCUMENTARY (Feature)": {
             "Barbara Kopple": {
                 "name_of_work": "American Dream",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Arthur Cohn": {
                 "name_of_work": "American Dream",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Mark Kitchell": {
@@ -5889,7 +5889,7 @@
             },
             "John Barry": {
                 "name_of_work": "Dances With Wolves",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Maurice Jarre": {
@@ -5931,7 +5931,7 @@
             },
             "Stephen Sondheim": {
                 "name_of_work": "\"Sooner Or Later (I Always Get My Man)\" from Dick Tracy",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -5948,12 +5948,12 @@
             },
             "Jim Wilson": {
                 "name_of_work": "Dances With Wolves",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kevin Costner": {
                 "name_of_work": "Dances With Wolves",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lisa Weinstein": {
@@ -5975,7 +5975,7 @@
         "SHORT FILM (Animated)": {
             "Nick Park": {
                 "name_of_work": "A Grand Day Out",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bruno Bozzetto": {
@@ -6007,7 +6007,7 @@
             },
             "Adam Davidson": {
                 "name_of_work": "The Lunch Date",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bernard Joffa": {
@@ -6039,7 +6039,7 @@
             },
             "Michael Blake": {
                 "name_of_work": "Dances With Wolves",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Nicholas Pileggi": {
@@ -6076,7 +6076,7 @@
             },
             "Bruce Joel Rubin": {
                 "name_of_work": "Ghost",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Peter Weir": {
@@ -6110,7 +6110,7 @@
             },
             "Jonathan Demme": {
                 "name_of_work": "The Silence of the Lambs",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ridley Scott": {
@@ -6142,12 +6142,12 @@
             },
             "Allie Light": {
                 "name_of_work": "In the Shadow of the Stars",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Irving Saraf": {
                 "name_of_work": "In the Shadow of the Stars",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Hava Kohav Beller": {
@@ -6169,7 +6169,7 @@
         "MUSIC (Original Score)": {
             "Alan Menken": {
                 "name_of_work": "Beauty and the Beast",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ennio Morricone": {
@@ -6201,7 +6201,7 @@
             },
             "Alan Menken": {
                 "name_of_work": "\"Belle\" from Beauty and the Beast",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Kamen": {
@@ -6258,17 +6258,17 @@
             },
             "Edward Saxon": {
                 "name_of_work": "The Silence of the Lambs",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kenneth Utt": {
                 "name_of_work": "The Silence of the Lambs",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ron Bozman": {
                 "name_of_work": "The Silence of the Lambs",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -6280,7 +6280,7 @@
             },
             "Daniel Greave": {
                 "name_of_work": "Manipulation",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Wendy Tilby": {
@@ -6307,12 +6307,12 @@
             },
             "Seth Winston": {
                 "name_of_work": "Session Man",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Rob Fried": {
                 "name_of_work": "Session Man",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -6354,7 +6354,7 @@
             },
             "Ted Tally": {
                 "name_of_work": "The Silence of the Lambs",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -6386,7 +6386,7 @@
             },
             "Callie Khouri": {
                 "name_of_work": "Thelma & Louise",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         }
@@ -6415,7 +6415,7 @@
             },
             "Clint Eastwood": {
                 "name_of_work": "Unforgiven",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -6452,19 +6452,19 @@
             },
             "Barbara Trent": {
                 "name_of_work": "The Panama Deception",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "David Kasper": {
                 "name_of_work": "The Panama Deception",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "MUSIC (Original Score)": {
             "Alan Menken": {
                 "name_of_work": "Aladdin",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jerry Goldsmith": {
@@ -6496,7 +6496,7 @@
             },
             "Alan Menken": {
                 "name_of_work": "\"A Whole New World\" from Aladdin",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "David Foster": {
@@ -6543,7 +6543,7 @@
             },
             "Clint Eastwood": {
                 "name_of_work": "Unforgiven",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -6555,7 +6555,7 @@
             },
             "Joan C. Gratz": {
                 "name_of_work": "Mona Lisa Descending a Staircase",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Michaela Pavl\u00c3\u00a1tov\u00c3\u00a1": {
@@ -6597,7 +6597,7 @@
             },
             "Sam Karmann": {
                 "name_of_work": "Omnibus",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kenneth Branagh": {
@@ -6619,7 +6619,7 @@
             },
             "Ruth Prawer Jhabvala": {
                 "name_of_work": "Howards End",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Michael Tolkin": {
@@ -6641,7 +6641,7 @@
         "WRITING (Screenplay Written Directly for the Screen)": {
             "Neil Jordan": {
                 "name_of_work": "The Crying Game",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Woody Allen": {
@@ -6690,7 +6690,7 @@
             },
             "Steven Spielberg": {
                 "name_of_work": "Schindler's List",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Robert Altman": {
@@ -6732,12 +6732,12 @@
             },
             "Susan Raymond": {
                 "name_of_work": "I Am a Promise: The Children of Stanton Elementary School",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Alan Raymond": {
                 "name_of_work": "I Am a Promise: The Children of Stanton Elementary School",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "D.A. Pennebaker": {
@@ -6774,7 +6774,7 @@
             },
             "John William": {
                 "name_of_work": "Schindler's List",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -6816,7 +6816,7 @@
             },
             "Bruce Springsteen": {
                 "name_of_work": "\"Streets Of Philadelphia\" from Philadelphia",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Marc Shaiman": {
@@ -6858,17 +6858,17 @@
             },
             "Steven Spielberg": {
                 "name_of_work": "Schindler's List",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Gerald R. Molen": {
                 "name_of_work": "Schindler's List",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Branko Lustig": {
                 "name_of_work": "Schindler's List",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -6905,14 +6905,14 @@
             },
             "Nick Park": {
                 "name_of_work": "The Wrong Trousers",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "SHORT FILM (Live Action)": {
             "Pepe Danquart": {
                 "name_of_work": "Black Rider (Schwarzfahrer)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Stacy Title": {
@@ -6979,7 +6979,7 @@
             },
             "Steven Zaillian": {
                 "name_of_work": "Schindler's List",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "William Nicholson": {
@@ -7006,7 +7006,7 @@
             },
             "Jane Campion": {
                 "name_of_work": "The Piano",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Nora Ephron": {
@@ -7035,7 +7035,7 @@
             },
             "Robert Zemecki": {
                 "name_of_work": "Forrest Gump",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Quentin Tarantino": {
@@ -7082,12 +7082,12 @@
             },
             "Freida Lee Mock": {
                 "name_of_work": "Maya Lin: A Strong Clear Vision",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Terry Sander": {
                 "name_of_work": "Maya Lin: A Strong Clear Vision",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -7104,7 +7104,7 @@
             },
             "Hans Zimmer": {
                 "name_of_work": "The Lion King",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Thomas Newman": {
@@ -7116,7 +7116,7 @@
         "MUSIC (Original Song)": {
             "Elton John": {
                 "name_of_work": "\"Hakuna Matata\" from The Lion King",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Carole Bayer Sager": {
@@ -7148,17 +7148,17 @@
         "BEST PICTURE": {
             "Wendy Finerman": {
                 "name_of_work": "Forrest Gump",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Steve Tisch": {
                 "name_of_work": "Forrest Gump",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Steve Starkey": {
                 "name_of_work": "Forrest Gump",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Duncan Kenworthy": {
@@ -7210,12 +7210,12 @@
             },
             "Alison Snowden": {
                 "name_of_work": "Bob's Birthday",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "David Fine": {
                 "name_of_work": "Bob's Birthday",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Vanessa Schwartz": {
@@ -7237,12 +7237,12 @@
         "SHORT FILM (Live Action)": {
             "Peter Capaldi": {
                 "name_of_work": "Franz Kafka's It's a Wonderful Life",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ruth Kenley-Lett": {
                 "name_of_work": "Franz Kafka's It's a Wonderful Life",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Sean Astin": {
@@ -7277,19 +7277,19 @@
             },
             "Peggy Rajski": {
                 "name_of_work": "Trevor",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Randy Stone": {
                 "name_of_work": "Trevor",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "WRITING (Screenplay Based on Material Previously Produced or Published)": {
             "Eric Roth": {
                 "name_of_work": "Forrest Gump",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alan Bennett": {
@@ -7341,7 +7341,7 @@
             },
             "Quentin Tarantino": {
                 "name_of_work": "Pulp Fiction",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Krzysztof Piesiewicz": {
@@ -7365,7 +7365,7 @@
             },
             "Mel Gibson": {
                 "name_of_work": "Braveheart",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Tim Robbin": {
@@ -7387,7 +7387,7 @@
         "DOCUMENTARY (Feature)": {
             "Jon Blair": {
                 "name_of_work": "Anne Frank Remembered",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Thomas Lennon": {
@@ -7444,7 +7444,7 @@
             },
             "Luis Enrique Bacalov": {
                 "name_of_work": "The Postman (Il Postino)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Patrick Doyle": {
@@ -7461,7 +7461,7 @@
             },
             "Alan Menken": {
                 "name_of_work": "Pocahontas",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John William": {
@@ -7483,7 +7483,7 @@
         "MUSIC (Original Song)": {
             "Alan Menken": {
                 "name_of_work": "\"Colors Of The Wind\" from Pocahontas",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bruce Springsteen": {
@@ -7545,17 +7545,17 @@
             },
             "Mel Gibson": {
                 "name_of_work": "Braveheart",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alan Ladd Jr.": {
                 "name_of_work": "Braveheart",
-                "winner": false,
+                "winner": true,
                 "gender": "male"
             },
             "Bruce Davey": {
                 "name_of_work": "Braveheart",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Mario Cecchi Gori": {
@@ -7587,7 +7587,7 @@
             },
             "Nick Park": {
                 "name_of_work": "A Close Shave",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Chris Landreth": {
@@ -7634,12 +7634,12 @@
             },
             "Christine Lahti": {
                 "name_of_work": "Lieberman in Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Jana Sue Memel": {
                 "name_of_work": "Lieberman in Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Jeff Goldblum": {
@@ -7716,7 +7716,7 @@
             },
             "Emma Thompson": {
                 "name_of_work": "Sense and Sensibility",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
@@ -7768,7 +7768,7 @@
             },
             "Christopher McQuarrie": {
                 "name_of_work": "The Usual Suspects",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         }
@@ -7777,7 +7777,7 @@
         "DIRECTING": {
             "Anthony Minghella": {
                 "name_of_work": "The English Patient",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Joel Coen": {
@@ -7834,19 +7834,19 @@
             },
             "Leon Gast": {
                 "name_of_work": "When We Were Kings",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "David Sonenberg": {
                 "name_of_work": "When We Were Kings",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "MUSIC (Original Dramatic Score)": {
             "Gabriel Yared": {
                 "name_of_work": "The English Patient",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Patrick Doyle": {
@@ -7873,7 +7873,7 @@
         "MUSIC (Original Musical or Comedy Score)": {
             "Rachel Portman": {
                 "name_of_work": "Emma",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Marc Shaiman": {
@@ -7945,14 +7945,14 @@
             },
             "Andrew Lloyd Webber": {
                 "name_of_work": "\"You Must Love Me\" from Evita",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "BEST PICTURE": {
             "Saul Zaentz": {
                 "name_of_work": "The English Patient",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ethan Coen": {
@@ -8009,12 +8009,12 @@
             },
             "Tyron Montgomery": {
                 "name_of_work": "Quest",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Thomas Stellmach": {
                 "name_of_work": "Quest",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Peter Lord": {
@@ -8031,12 +8031,12 @@
             },
             "David Frankel": {
                 "name_of_work": "Dear Diary",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Barry Jossen": {
                 "name_of_work": "Dear Diary",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kim Magnusson": {
@@ -8083,7 +8083,7 @@
             },
             "Billy Bob Thornton": {
                 "name_of_work": "Sling Blade",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John Hodge": {
@@ -8095,12 +8095,12 @@
         "WRITING (Screenplay Written Directly for the Screen)": {
             "Ethan Coen": {
                 "name_of_work": "Fargo",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Joel Coen": {
                 "name_of_work": "Fargo",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Cameron Crowe": {
@@ -8149,7 +8149,7 @@
             },
             "James Cameron": {
                 "name_of_work": "Titanic",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -8181,12 +8181,12 @@
             },
             "Rabbi Marvin Hier": {
                 "name_of_work": "The Long Way Home",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Richard Trank": {
                 "name_of_work": "The Long Way Home",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dan Gifford": {
@@ -8223,7 +8223,7 @@
             },
             "James Horner": {
                 "name_of_work": "Titanic",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -8240,7 +8240,7 @@
             },
             "Anne Dudley": {
                 "name_of_work": "The Full Monty",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Danny Elfman": {
@@ -8277,7 +8277,7 @@
             },
             "James Horner": {
                 "name_of_work": "\"My Heart Will Go On\" from Titanic",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -8324,12 +8324,12 @@
             },
             "James Cameron": {
                 "name_of_work": "Titanic",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jon Landau": {
                 "name_of_work": "Titanic",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -8341,7 +8341,7 @@
             },
             "Jan Pinkava": {
                 "name_of_work": "Geri's Game",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Sylvain Chomet": {
@@ -8398,12 +8398,12 @@
             },
             "Chris Tashima": {
                 "name_of_work": "Visas and Virtue",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Chris Donahue": {
                 "name_of_work": "Visas and Virtue",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kim Magnusson": {
@@ -8425,12 +8425,12 @@
             },
             "Brian Helgeland": {
                 "name_of_work": "L.A. Confidential",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Curtis Hanson": {
                 "name_of_work": "L.A. Confidential",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Atom Egoyan": {
@@ -8482,12 +8482,12 @@
             },
             "Ben Affleck": {
                 "name_of_work": "Good Will Hunting",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Matt Damon": {
                 "name_of_work": "Good Will Hunting",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         }
@@ -8501,7 +8501,7 @@
             },
             "Steven Spielberg": {
                 "name_of_work": "Saving Private Ryan",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John Madden": {
@@ -8543,12 +8543,12 @@
             },
             "James Moll": {
                 "name_of_work": "The Last Days",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ken Lipper": {
                 "name_of_work": "The Last Days",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Robert B. Weide": {
@@ -8575,7 +8575,7 @@
             },
             "Nicola Piovani": {
                 "name_of_work": "Life Is Beautiful",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Randy Newman": {
@@ -8617,7 +8617,7 @@
             },
             "Stephen Warbeck": {
                 "name_of_work": "Shakespeare in Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -8664,7 +8664,7 @@
             },
             "Stephen Schwartz": {
                 "name_of_work": "\"When You Believe\" from The Prince of Egypt",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -8716,27 +8716,27 @@
             },
             "David Parfitt": {
                 "name_of_work": "Shakespeare in Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Donna Gigliotti": {
                 "name_of_work": "Shakespeare in Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Harvey Weinstein": {
                 "name_of_work": "Shakespeare in Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Edward Zwick": {
                 "name_of_work": "Shakespeare in Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Marc Norman": {
                 "name_of_work": "Shakespeare in Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Robert Michael Geisler": {
@@ -8758,7 +8758,7 @@
         "SHORT FILM (Animated)": {
             "Chris Wedge": {
                 "name_of_work": "Bunny",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Christopher Grace": {
@@ -8810,12 +8810,12 @@
             },
             "Kim Magnusson": {
                 "name_of_work": "Election Night (Valgaften)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Anders Thomas Jensen": {
                 "name_of_work": "Election Night (Valgaften)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alexander Jovy": {
@@ -8847,7 +8847,7 @@
         "WRITING (Screenplay Based on Material Previously Produced or Published)": {
             "Bill Condon": {
                 "name_of_work": "Gods and Monsters",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Scott Frank": {
@@ -8899,12 +8899,12 @@
             },
             "Marc Norman": {
                 "name_of_work": "Shakespeare in Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Tom Stoppard": {
                 "name_of_work": "Shakespeare in Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Andrew Niccol": {
@@ -8918,13 +8918,13 @@
         "DIRECTING": {
             "Sam Mende": {
                 "name_of_work": "American Beauty",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Spike Jonze": {
                 "name_of_work": "Being John Malkovich",
                 "winner": false,
-                "gender": "female"
+                "gender": "male"
             },
             "Lasse Hallstr\u00c3\u00b6m": {
                 "name_of_work": "The Cider House Rules",
@@ -8975,12 +8975,12 @@
             },
             "Arthur Cohn": {
                 "name_of_work": "One Day in September",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kevin Macdonald": {
                 "name_of_work": "One Day in September",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Paola di Florio": {
@@ -9012,7 +9012,7 @@
             },
             "John Corigliano": {
                 "name_of_work": "The Red Violin",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Gabriel Yared": {
@@ -9049,19 +9049,19 @@
             },
             "Phil Collin": {
                 "name_of_work": "\"You'll Be In My Heart\" from Tarzan",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "BEST PICTURE": {
             "Bruce Cohen": {
                 "name_of_work": "American Beauty",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dan Jink": {
                 "name_of_work": "American Beauty",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Richard N. Gladstein": {
@@ -9118,7 +9118,7 @@
             },
             "Alexander Petrov": {
                 "name_of_work": "The Old Man and the Sea",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Paul Driessen": {
@@ -9131,7 +9131,7 @@
                 "winner": false,
                 "gender": "female"
             },
-            "Amanda Forbi": {
+            "Amanda Forbis": {
                 "name_of_work": "When the Day Breaks",
                 "winner": false,
                 "gender": "female"
@@ -9175,19 +9175,19 @@
             },
             "Barbara Schock": {
                 "name_of_work": "My Mother Dreams the Satan's Disciples in New York",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Tammy Tiehel": {
                 "name_of_work": "My Mother Dreams the Satan's Disciples in New York",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
         "WRITING (Screenplay Based on Material Previously Produced or Published)": {
             "John Irving": {
                 "name_of_work": "The Cider House Rules",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alexander Payne": {
@@ -9224,7 +9224,7 @@
         "WRITING (Screenplay Written Directly for the Screen)": {
             "Alan Ball": {
                 "name_of_work": "American Beauty",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Charlie Kaufman": {
@@ -9263,7 +9263,7 @@
             },
             "Steven Soderbergh": {
                 "name_of_work": "Traffic",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ridley Scott": {
@@ -9275,12 +9275,12 @@
         "DOCUMENTARY (Feature)": {
             "Mark Jonathan Harri": {
                 "name_of_work": "Into the Arms of Strangers: Stories of the Kindertransport",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Deborah Oppenheimer": {
                 "name_of_work": "Into the Arms of Strangers: Stories of the Kindertransport",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Tod Lending": {
@@ -9327,7 +9327,7 @@
             },
             "Tan Dun": {
                 "name_of_work": "Crouching Tiger, Hidden Dragon",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Hans Zimmer": {
@@ -9379,7 +9379,7 @@
             },
             "Bob Dylan": {
                 "name_of_work": "\"Things Have Changed\" from Wonder Boys",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -9431,17 +9431,17 @@
             },
             "Douglas Wick": {
                 "name_of_work": "Gladiator",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "David Franzoni": {
                 "name_of_work": "Gladiator",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Branko Lustig": {
                 "name_of_work": "Gladiator",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Edward Zwick": {
@@ -9463,7 +9463,7 @@
         "SHORT FILM (Animated)": {
             "Michael Dudok de Wit": {
                 "name_of_work": "Father and Daughter",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Steffen Sch\u00c3\u00a4ffler": {
@@ -9505,7 +9505,7 @@
             },
             "Florian Gallenberger": {
                 "name_of_work": "Quiero Ser (I want to be...)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Gail Lerner": {
@@ -9557,7 +9557,7 @@
             },
             "Stephen Gaghan": {
                 "name_of_work": "Traffic",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Steve Klove": {
@@ -9569,7 +9569,7 @@
         "WRITING (Screenplay Written Directly for the Screen)": {
             "Cameron Crowe": {
                 "name_of_work": "Almost Famous",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lee Hall": {
@@ -9623,14 +9623,14 @@
             },
             "Aron Warner": {
                 "name_of_work": "Shrek",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "DIRECTING": {
             "Ron Howard": {
                 "name_of_work": "A Beautiful Mind",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ridley Scott": {
@@ -9672,12 +9672,12 @@
             },
             "Jean-Xavier de Lestrade": {
                 "name_of_work": "Murder on a Sunday Morning",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Denis Poncet": {
                 "name_of_work": "Murder on a Sunday Morning",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Justine Shapiro": {
@@ -9709,7 +9709,7 @@
             },
             "Howard Shore": {
                 "name_of_work": "The Lord of the Rings: The Fellowship of the Ring",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Randy Newman": {
@@ -9721,7 +9721,7 @@
         "MUSIC (Original Song)": {
             "Randy Newman": {
                 "name_of_work": "\"If I Didn't Have You\" from Monsters, Inc.",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Enya": {
@@ -9758,12 +9758,12 @@
         "BEST PICTURE": {
             "Brian Grazer": {
                 "name_of_work": "A Beautiful Mind",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ron Howard": {
                 "name_of_work": "A Beautiful Mind",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Robert Altman": {
@@ -9840,7 +9840,7 @@
             },
             "Ralph Eggleston": {
                 "name_of_work": "For the Birds",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Cathal Gaffney": {
@@ -9867,12 +9867,12 @@
         "SHORT FILM (Live Action)": {
             "Ray McKinnon": {
                 "name_of_work": "the accountant",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lisa Blount": {
                 "name_of_work": "the accountant",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Virgil Widrich": {
@@ -9909,7 +9909,7 @@
         "WRITING (Screenplay Based on Material Previously Produced or Published)": {
             "Akiva Goldsman": {
                 "name_of_work": "A Beautiful Mind",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Daniel Clowe": {
@@ -9976,7 +9976,7 @@
             },
             "Julian Fellowe": {
                 "name_of_work": "Gosford Park",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Christopher Nolan": {
@@ -10025,7 +10025,7 @@
             },
             "Hayao Miyazaki": {
                 "name_of_work": "Spirited Away",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ron Clement": {
@@ -10052,7 +10052,7 @@
             },
             "Roman Polanski": {
                 "name_of_work": "The Pianist",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Pedro Almod\u00c3\u00b3var": {
@@ -10064,12 +10064,12 @@
         "DOCUMENTARY (Feature)": {
             "Michael Moore": {
                 "name_of_work": "Bowling for Columbine",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Donovan": {
                 "name_of_work": "Bowling for Columbine",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Gail Dolgin": {
@@ -10121,7 +10121,7 @@
             },
             "Elliot Goldenthal": {
                 "name_of_work": "Frida",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Philip Gla": {
@@ -10173,19 +10173,19 @@
             },
             "Eminem": {
                 "name_of_work": "\"Lose Yourself\" from 8 Mile",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jeff Ba": {
                 "name_of_work": "\"Lose Yourself\" from 8 Mile",
-                "winner": false,
+                "winner": true,
                 "gender": "male"
             }
         },
         "BEST PICTURE": {
             "Martin Richard": {
                 "name_of_work": "Chicago",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alberto Grimaldi": {
@@ -10247,7 +10247,7 @@
             },
             "Eric Armstrong": {
                 "name_of_work": "The ChubbChubbs!",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Chris Stenner": {
@@ -10319,12 +10319,12 @@
             },
             "Martin Strange-Hansen": {
                 "name_of_work": "This Charming Man (Der Er En Yndig Mand)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Mie Andreasen": {
                 "name_of_work": "This Charming Man (Der Er En Yndig Mand)",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
@@ -10366,7 +10366,7 @@
             },
             "Ronald Harwood": {
                 "name_of_work": "The Pianist",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -10393,7 +10393,7 @@
             },
             "Pedro Almod\u00c3\u00b3var": {
                 "name_of_work": "Talk to Her",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Carlos Cuar\u00c3\u00b3n": {
@@ -10422,7 +10422,7 @@
             },
             "Andrew Stanton": {
                 "name_of_work": "Finding Nemo",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Sylvain Chomet": {
@@ -10439,7 +10439,7 @@
             },
             "Peter Jackson": {
                 "name_of_work": "The Lord of the Rings: The Return of the King",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Sofia Coppola": {
@@ -10481,12 +10481,12 @@
             },
             "Errol Morri": {
                 "name_of_work": "The Fog of War",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael William": {
                 "name_of_work": "The Fog of War",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Nathaniel Kahn": {
@@ -10533,7 +10533,7 @@
             },
             "Howard Shore": {
                 "name_of_work": "The Lord of the Rings: The Return of the King",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -10545,17 +10545,17 @@
             },
             "Fran Walsh": {
                 "name_of_work": "\"Into The West\" from The Lord of the Rings: The Return of the King",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Howard Shore": {
                 "name_of_work": "\"Into The West\" from The Lord of the Rings: The Return of the King",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Annie Lennox": {
                 "name_of_work": "\"Into The West\" from The Lord of the Rings: The Return of the King",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Michael McKean": {
@@ -10587,17 +10587,17 @@
         "BEST PICTURE": {
             "Barrie M. Osborne": {
                 "name_of_work": "The Lord of the Rings: The Return of the King",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Peter Jackson": {
                 "name_of_work": "The Lord of the Rings: The Return of the King",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Fran Walsh": {
                 "name_of_work": "The Lord of the Rings: The Return of the King",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Ross Katz": {
@@ -10684,7 +10684,7 @@
             },
             "Adam Elliot": {
                 "name_of_work": "Harvie Krumpet",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Chris Hinton": {
@@ -10721,12 +10721,12 @@
             },
             "Aaron Schneider": {
                 "name_of_work": "Two Soldiers",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Andrew J. Sack": {
                 "name_of_work": "Two Soldiers",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -10748,17 +10748,17 @@
             },
             "Fran Walsh": {
                 "name_of_work": "The Lord of the Rings: The Return of the King",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Philippa Boyen": {
                 "name_of_work": "The Lord of the Rings: The Return of the King",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Peter Jackson": {
                 "name_of_work": "The Lord of the Rings: The Return of the King",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Brian Helgeland": {
@@ -10810,7 +10810,7 @@
             },
             "Sofia Coppola": {
                 "name_of_work": "Lost in Translation",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         }
@@ -10819,7 +10819,7 @@
         "ANIMATED FEATURE FILM": {
             "Brad Bird": {
                 "name_of_work": "The Incredibles",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bill Damaschke": {
@@ -10841,7 +10841,7 @@
             },
             "Clint Eastwood": {
                 "name_of_work": "Million Dollar Baby",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Taylor Hackford": {
@@ -10863,12 +10863,12 @@
         "DOCUMENTARY (Feature)": {
             "Ross Kauffman": {
                 "name_of_work": "Born into Brothels",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Zana Briski": {
                 "name_of_work": "Born into Brothels",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Luigi Falorni": {
@@ -10910,7 +10910,7 @@
         "MUSIC (Original Score)": {
             "Jan A.P. Kaczmarek": {
                 "name_of_work": "Finding Neverland",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John William": {
@@ -10967,7 +10967,7 @@
             },
             "Jorge Drexler": {
                 "name_of_work": "\"Al Otro Lado Del R\u00c3\u00ado\" from The Motorcycle Diaries",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Glen Ballard": {
@@ -11014,17 +11014,17 @@
             },
             "Clint Eastwood": {
                 "name_of_work": "Million Dollar Baby",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Albert S. Ruddy": {
                 "name_of_work": "Million Dollar Baby",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Tom Rosenberg": {
                 "name_of_work": "Million Dollar Baby",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Taylor Hackford": {
@@ -11086,7 +11086,7 @@
             },
             "Chris Landreth": {
                 "name_of_work": "Ryan",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -11118,7 +11118,7 @@
             },
             "Andrea Arnold": {
                 "name_of_work": "Wasp",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
@@ -11155,12 +11155,12 @@
             },
             "Alexander Payne": {
                 "name_of_work": "Sideways",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jim Taylor": {
                 "name_of_work": "Sideways",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -11172,7 +11172,7 @@
             },
             "Charlie Kaufman": {
                 "name_of_work": "Eternal Sunshine of the Spotless Mind",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Keir Pearson": {
@@ -11216,19 +11216,19 @@
             },
             "Nick Park": {
                 "name_of_work": "Wallace & Gromit in The Curse of the Were-Rabbit",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Steve Box": {
                 "name_of_work": "Wallace & Gromit in The Curse of the Were-Rabbit",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "DIRECTING": {
             "Ang Lee": {
                 "name_of_work": "Brokeback Mountain",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bennett Miller": {
@@ -11270,12 +11270,12 @@
             },
             "Luc Jacquet": {
                 "name_of_work": "March of the Penguins",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Yves Darondeau": {
                 "name_of_work": "March of the Penguins",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Henry-Alex Rubin": {
@@ -11297,7 +11297,7 @@
         "MUSIC (Original Score)": {
             "Gustavo Santaolalla": {
                 "name_of_work": "Brokeback Mountain",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alberto Iglesia": {
@@ -11324,17 +11324,17 @@
             },
             "Jordan Houston": {
                 "name_of_work": "\"It's Hard Out Here For A Pimp\" from Hustle & Flow",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Cedric Coleman": {
                 "name_of_work": "\"It's Hard Out Here For A Pimp\" from Hustle & Flow",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Paul Beauregard": {
                 "name_of_work": "\"It's Hard Out Here For A Pimp\" from Hustle & Flow",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dolly Parton": {
@@ -11371,12 +11371,12 @@
             },
             "Paul Haggi": {
                 "name_of_work": "Crash",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Cathy Schulman": {
                 "name_of_work": "Crash",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Grant Heslov": {
@@ -11408,12 +11408,12 @@
             },
             "John Canemaker": {
                 "name_of_work": "The Moon and the Son: An Imagined Conversation",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Peggy Stern": {
                 "name_of_work": "The Moon and the Son: An Imagined Conversation",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Anthony Luca": {
@@ -11475,19 +11475,19 @@
             },
             "Martin McDonagh": {
                 "name_of_work": "Six Shooter",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "WRITING (Adapted Screenplay)": {
             "Larry McMurtry": {
                 "name_of_work": "Brokeback Mountain",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Diana Ossana": {
                 "name_of_work": "Brokeback Mountain",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Dan Futterman": {
@@ -11519,12 +11519,12 @@
         "WRITING (Original Screenplay)": {
             "Paul Haggi": {
                 "name_of_work": "Crash",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bobby Moresco": {
                 "name_of_work": "Crash",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "George Clooney": {
@@ -11563,7 +11563,7 @@
             },
             "George Miller": {
                 "name_of_work": "Happy Feet",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Gil Kenan": {
@@ -11580,7 +11580,7 @@
             },
             "Martin Scorsese": {
                 "name_of_work": "The Departed",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Clint Eastwood": {
@@ -11612,7 +11612,7 @@
             },
             "Davis Guggenheim": {
                 "name_of_work": "An Inconvenient Truth",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "James Longley": {
@@ -11649,7 +11649,7 @@
         "MUSIC (Original Score)": {
             "Gustavo Santaolalla": {
                 "name_of_work": "Babel",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Thomas Newman": {
@@ -11676,7 +11676,7 @@
         "MUSIC (Original Song)": {
             "Melissa Etheridge": {
                 "name_of_work": "\"I Need To Wake Up\" from An Inconvenient Truth",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Henry Krieger": {
@@ -11713,7 +11713,7 @@
             },
             "Graham King": {
                 "name_of_work": "The Departed",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Clint Eastwood": {
@@ -11765,7 +11765,7 @@
         "SHORT FILM (Animated)": {
             "Torill Kove": {
                 "name_of_work": "The Danish Poet",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Gary Rydstrom": {
@@ -11837,7 +11837,7 @@
             },
             "Ari Sandel": {
                 "name_of_work": "West Bank Story",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -11889,7 +11889,7 @@
             },
             "William Monahan": {
                 "name_of_work": "The Departed",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Todd Field": {
@@ -11921,7 +11921,7 @@
             },
             "Michael Arndt": {
                 "name_of_work": "Little Miss Sunshine",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Guillermo del Toro": {
@@ -11950,7 +11950,7 @@
             },
             "Brad Bird": {
                 "name_of_work": "Ratatouille",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ash Brannon": {
@@ -11982,12 +11982,12 @@
             },
             "Joel Coen": {
                 "name_of_work": "No Country for Old Men",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ethan Coen": {
                 "name_of_work": "No Country for Old Men",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Paul Thomas Anderson": {
@@ -12024,12 +12024,12 @@
             },
             "Alex Gibney": {
                 "name_of_work": "Taxi to the Dark Side",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Eva Orner": {
                 "name_of_work": "Taxi to the Dark Side",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Andrea Nix Fine": {
@@ -12046,7 +12046,7 @@
         "MUSIC (Original Score)": {
             "Dario Marianelli": {
                 "name_of_work": "Atonement",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alberto Iglesia": {
@@ -12073,12 +12073,12 @@
         "MUSIC (Original Song)": {
             "Glen Hansard": {
                 "name_of_work": "\"Falling Slowly\" from Once",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Marketa Irglova": {
                 "name_of_work": "\"Falling Slowly\" from Once",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Alan Menken": {
@@ -12150,17 +12150,17 @@
             },
             "Scott Rudin": {
                 "name_of_work": "No Country for Old Men",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ethan Coen": {
                 "name_of_work": "No Country for Old Men",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Joel Coen": {
                 "name_of_work": "No Country for Old Men",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "JoAnne Sellar": {
@@ -12212,12 +12212,12 @@
             },
             "Suzie Templeton": {
                 "name_of_work": "Peter & the Wolf",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Hugh Welchman": {
                 "name_of_work": "Peter & the Wolf",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -12239,7 +12239,7 @@
             },
             "Philippe Pollet-Villard": {
                 "name_of_work": "Le Mozart des Pickpockets (The Mozart of Pickpockets)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Guido Thy": {
@@ -12281,12 +12281,12 @@
             },
             "Joel Coen": {
                 "name_of_work": "No Country for Old Men",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ethan Coen": {
                 "name_of_work": "No Country for Old Men",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Paul Thomas Anderson": {
@@ -12298,7 +12298,7 @@
         "WRITING (Original Screenplay)": {
             "Diablo Cody": {
                 "name_of_work": "Juno",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Nancy Oliver": {
@@ -12347,7 +12347,7 @@
             },
             "Andrew Stanton": {
                 "name_of_work": "WALL-E",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -12374,7 +12374,7 @@
             },
             "Danny Boyle": {
                 "name_of_work": "Slumdog Millionaire",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -12406,12 +12406,12 @@
             },
             "James Marsh": {
                 "name_of_work": "Man on Wire",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Simon Chinn": {
                 "name_of_work": "Man on Wire",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Tia Lessin": {
@@ -12443,7 +12443,7 @@
             },
             "A.R. Rahman": {
                 "name_of_work": "Slumdog Millionaire",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Thomas Newman": {
@@ -12460,12 +12460,12 @@
             },
             "A.R. Rahman": {
                 "name_of_work": "\"O Saya\" from Slumdog Millionaire",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Maya Arulpragasam": {
                 "name_of_work": "\"O Saya\" from Slumdog Millionaire",
-                "winner": false,
+                "winner": true,
                 "gender": "female"
             }
         },
@@ -12532,14 +12532,14 @@
             },
             "Christian Colson": {
                 "name_of_work": "Slumdog Millionaire",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "SHORT FILM (Animated)": {
             "Kunio Kato": {
                 "name_of_work": "La Maison en Petits Cubes",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Konstantin Bronzit": {
@@ -12611,7 +12611,7 @@
             },
             "Jochen Alexander Freydank": {
                 "name_of_work": "Spielzeugland (Toyland)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -12643,7 +12643,7 @@
             },
             "Simon Beaufoy": {
                 "name_of_work": "Slumdog Millionaire",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -12665,7 +12665,7 @@
             },
             "Dustin Lance Black": {
                 "name_of_work": "Milk",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Andrew Stanton": {
@@ -12709,7 +12709,7 @@
             },
             "Pete Docter": {
                 "name_of_work": "Up",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -12721,7 +12721,7 @@
             },
             "Kathryn Bigelow": {
                 "name_of_work": "The Hurt Locker",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Quentin Tarantino": {
@@ -12753,12 +12753,12 @@
             },
             "Louie Psihoyo": {
                 "name_of_work": "The Cove",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Fisher Steven": {
                 "name_of_work": "The Cove",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Robert Kenner": {
@@ -12815,7 +12815,7 @@
             },
             "Michael Giacchino": {
                 "name_of_work": "Up",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -12837,12 +12837,12 @@
             },
             "Ryan Bingham": {
                 "name_of_work": "\"The Weary Kind (Theme From Crazy Heart)\" from Crazy Heart",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "T Bone Burnett": {
                 "name_of_work": "\"The Weary Kind (Theme From Crazy Heart)\" from Crazy Heart",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -12894,22 +12894,22 @@
             },
             "Kathryn Bigelow": {
                 "name_of_work": "The Hurt Locker",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Mark Boal": {
                 "name_of_work": "The Hurt Locker",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Nicolas Chartier": {
                 "name_of_work": "The Hurt Locker",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Greg Shapiro": {
                 "name_of_work": "The Hurt Locker",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lawrence Bender": {
@@ -12986,7 +12986,7 @@
             },
             "Nicolas Schmerkin": {
                 "name_of_work": "Logorama",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Nick Park": {
@@ -13033,12 +13033,12 @@
             },
             "Joachim Back": {
                 "name_of_work": "The New Tenants",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Tivi Magnusson": {
                 "name_of_work": "The New Tenants",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -13080,7 +13080,7 @@
             },
             "Geoffrey Fletcher": {
                 "name_of_work": "Precious: Based on the Novel 'Push' by Sapphire",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jason Reitman": {
@@ -13097,7 +13097,7 @@
         "WRITING (Original Screenplay)": {
             "Mark Boal": {
                 "name_of_work": "The Hurt Locker",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Quentin Tarantino": {
@@ -13156,7 +13156,7 @@
             },
             "Lee Unkrich": {
                 "name_of_work": "Toy Story 3",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
@@ -13173,7 +13173,7 @@
             },
             "Tom Hooper": {
                 "name_of_work": "The King's Speech",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "David Fincher": {
@@ -13215,12 +13215,12 @@
             },
             "Charles Ferguson": {
                 "name_of_work": "Inside Job",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Audrey Marr": {
                 "name_of_work": "Inside Job",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Tim Hetherington": {
@@ -13267,12 +13267,12 @@
             },
             "Trent Reznor": {
                 "name_of_work": "The Social Network",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Atticus Ro": {
                 "name_of_work": "The Social Network",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -13309,7 +13309,7 @@
             },
             "Randy Newman": {
                 "name_of_work": "\"We Belong Together\" from Toy Story 3",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -13371,17 +13371,17 @@
             },
             "Iain Canning": {
                 "name_of_work": "The King's Speech",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Emile Sherman": {
                 "name_of_work": "The King's Speech",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Gareth Unwin": {
                 "name_of_work": "The King's Speech",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Christian Colson": {
@@ -13468,12 +13468,12 @@
             },
             "Shaun Tan": {
                 "name_of_work": "The Lost Thing",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Andrew Ruhemann": {
                 "name_of_work": "The Lost Thing",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bastien Duboi": {
@@ -13495,7 +13495,7 @@
             },
             "Luke Matheny": {
                 "name_of_work": "God of Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ivan Goldschmidt": {
@@ -13527,7 +13527,7 @@
             },
             "Aaron Sorkin": {
                 "name_of_work": "The Social Network",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Arndt": {
@@ -13604,7 +13604,7 @@
             },
             "David Seidler": {
                 "name_of_work": "The King's Speech",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         }
@@ -13643,14 +13643,14 @@
             },
             "Gore Verbinski": {
                 "name_of_work": "Rango",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "DIRECTING": {
             "Michel Hazanaviciu": {
                 "name_of_work": "The Artist",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alexander Payne": {
@@ -13717,17 +13717,17 @@
             },
             "TJ Martin": {
                 "name_of_work": "Undefeated",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dan Lindsay": {
                 "name_of_work": "Undefeated",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Rich Middlema": {
                 "name_of_work": "Undefeated",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -13739,7 +13739,7 @@
             },
             "Ludovic Bource": {
                 "name_of_work": "The Artist",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Howard Shore": {
@@ -13756,7 +13756,7 @@
         "MUSIC (Original Song)": {
             "Bret McKenzie": {
                 "name_of_work": "\"Man Or Muppet\" from The Muppets",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Sergio Mende": {
@@ -13773,7 +13773,7 @@
         "BEST PICTURE": {
             "Thomas Langmann": {
                 "name_of_work": "The Artist",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jim Burke": {
@@ -13885,12 +13885,12 @@
             },
             "William Joyce": {
                 "name_of_work": "The Fantastic Flying Books of Mr. Morris Lessmore",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Brandon Oldenburg": {
                 "name_of_work": "The Fantastic Flying Books of Mr. Morris Lessmore",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Enrico Casarosa": {
@@ -13908,7 +13908,7 @@
                 "winner": false,
                 "gender": "female"
             },
-            "Amanda Forbi": {
+            "Amanda Forbis": {
                 "name_of_work": "Wild Life",
                 "winner": false,
                 "gender": "female"
@@ -13942,12 +13942,12 @@
             },
             "Terry George": {
                 "name_of_work": "The Shore",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Oorlagh George": {
                 "name_of_work": "The Shore",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Andrew Bowler": {
@@ -13969,17 +13969,17 @@
         "WRITING (Adapted Screenplay)": {
             "Alexander Payne": {
                 "name_of_work": "The Descendants",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Nat Faxon": {
                 "name_of_work": "The Descendants",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jim Rash": {
                 "name_of_work": "The Descendants",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John Logan": {
@@ -14046,7 +14046,7 @@
             },
             "Woody Allen": {
                 "name_of_work": "Midnight in Paris",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Asghar Farhadi": {
@@ -14060,12 +14060,12 @@
         "ANIMATED FEATURE FILM": {
             "Mark Andrew": {
                 "name_of_work": "Brave",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Brenda Chapman": {
                 "name_of_work": "Brave",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Tim Burton": {
@@ -14107,7 +14107,7 @@
             },
             "Ang Lee": {
                 "name_of_work": "Life of Pi",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Steven Spielberg": {
@@ -14169,12 +14169,12 @@
             },
             "Malik Bendjelloul": {
                 "name_of_work": "Searching for Sugar Man",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Simon Chinn": {
                 "name_of_work": "Searching for Sugar Man",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -14191,7 +14191,7 @@
             },
             "Mychael Danna": {
                 "name_of_work": "Life of Pi",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John William": {
@@ -14223,12 +14223,12 @@
             },
             "Adele Adkin": {
                 "name_of_work": "\"Skyfall\" from Skyfall",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Paul Epworth": {
                 "name_of_work": "\"Skyfall\" from Skyfall",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Claude-Michel Sch\u00c3\u00b6nberg": {
@@ -14265,17 +14265,17 @@
             },
             "Grant Heslov": {
                 "name_of_work": "Argo",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ben Affleck": {
                 "name_of_work": "Argo",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "George Clooney": {
                 "name_of_work": "Argo",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dan Janvey": {
@@ -14412,7 +14412,7 @@
             },
             "John Kahr": {
                 "name_of_work": "Paperman",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -14439,7 +14439,7 @@
             },
             "Shawn Christensen": {
                 "name_of_work": "Curfew",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Tom Van Avermaet": {
@@ -14461,7 +14461,7 @@
         "WRITING (Adapted Screenplay)": {
             "Chris Terrio": {
                 "name_of_work": "Argo",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lucy Alibar": {
@@ -14498,7 +14498,7 @@
             },
             "Quentin Tarantino": {
                 "name_of_work": "Django Unchained",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John Gatin": {
@@ -14567,17 +14567,17 @@
             },
             "Chris Buck": {
                 "name_of_work": "Frozen",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jennifer Lee": {
                 "name_of_work": "Frozen",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Peter Del Vecho": {
                 "name_of_work": "Frozen",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Hayao Miyazaki": {
@@ -14599,7 +14599,7 @@
             },
             "Alfonso Cuar\u00c3\u00b3n": {
                 "name_of_work": "Gravity",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alexander Payne": {
@@ -14661,17 +14661,17 @@
             },
             "Morgan Neville": {
                 "name_of_work": "20 Feet from Stardom",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Gil Friesen": {
                 "name_of_work": "20 Feet from Stardom",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Caitrin Roger": {
                 "name_of_work": "20 Feet from Stardom",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
@@ -14683,7 +14683,7 @@
             },
             "Steven Price": {
                 "name_of_work": "Gravity",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "William Butler": {
@@ -14720,12 +14720,12 @@
             },
             "Kristen Anderson-Lopez": {
                 "name_of_work": "\"Let It Go\" from Frozen",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Robert Lopez": {
                 "name_of_work": "\"Let It Go\" from Frozen",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Karen O": {
@@ -14736,7 +14736,7 @@
             "Spike Jonze": {
                 "name_of_work": "\"The Moon Song\" from Her",
                 "winner": false,
-                "gender": "female"
+                "gender": "male"
             },
             "Paul Hewson": {
                 "name_of_work": "\"Ordinary Love\" from Mandela: Long Walk to Freedom",
@@ -14813,7 +14813,7 @@
             "Spike Jonze": {
                 "name_of_work": "Her",
                 "winner": false,
-                "gender": "female"
+                "gender": "male"
             },
             "Vincent Landay": {
                 "name_of_work": "Her",
@@ -14847,27 +14847,27 @@
             },
             "Brad Pitt": {
                 "name_of_work": "12 Years a Slave",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dede Gardner": {
                 "name_of_work": "12 Years a Slave",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Jeremy Kleiner": {
                 "name_of_work": "12 Years a Slave",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Steve McQueen": {
                 "name_of_work": "12 Years a Slave",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Anthony Kataga": {
                 "name_of_work": "12 Years a Slave",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Martin Scorsese": {
@@ -14914,12 +14914,12 @@
             },
             "Laurent Witz": {
                 "name_of_work": "Mr. Hublot",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alexandre Espigare": {
                 "name_of_work": "Mr. Hublot",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Shuhei Morita": {
@@ -14956,12 +14956,12 @@
             },
             "Anders Walter": {
                 "name_of_work": "Helium",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kim Magnusson": {
                 "name_of_work": "Helium",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Selma Vilhunen": {
@@ -15018,7 +15018,7 @@
             },
             "John Ridley": {
                 "name_of_work": "12 Years a Slave",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Terence Winter": {
@@ -15055,8 +15055,8 @@
             },
             "Spike Jonze": {
                 "name_of_work": "Her",
-                "winner": "true",
-                "gender": "female"
+                "winner": true,
+                "gender": "male"
             },
             "Bob Nelson": {
                 "name_of_work": "Nebraska",
@@ -15069,17 +15069,17 @@
         "ANIMATED FEATURE FILM": {
             "Don Hall": {
                 "name_of_work": "Big Hero 6",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Chris William": {
                 "name_of_work": "Big Hero 6",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Roy Conli": {
                 "name_of_work": "Big Hero 6",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Anthony Stacchi": {
@@ -15131,7 +15131,7 @@
         "DIRECTING": {
             "Alejandro G. I\u00c3\u00b1\u00c3\u00a1rritu": {
                 "name_of_work": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Richard Linklater": {
@@ -15158,17 +15158,17 @@
         "DOCUMENTARY (Feature)": {
             "Laura Poitra": {
                 "name_of_work": "CitizenFour",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Mathilde Bonnefoy": {
                 "name_of_work": "CitizenFour",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Dirk Wilutzky": {
                 "name_of_work": "CitizenFour",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John Maloof": {
@@ -15220,7 +15220,7 @@
         "MUSIC (Original Score)": {
             "Alexandre Desplat": {
                 "name_of_work": "The Imitation Game",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Hans Zimmer": {
@@ -15247,12 +15247,12 @@
             },
             "John Stephen": {
                 "name_of_work": "\"Glory\" from Selma",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lonnie Lynn": {
                 "name_of_work": "\"Glory\" from Selma",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Diane Warren": {
@@ -15309,17 +15309,17 @@
             },
             "Alejandro G. I\u00c3\u00b1\u00c3\u00a1rritu": {
                 "name_of_work": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John Lesher": {
                 "name_of_work": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "James W. Skotchdopole": {
                 "name_of_work": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Richard Linklater": {
@@ -15446,12 +15446,12 @@
             },
             "Patrick Osborne": {
                 "name_of_work": "Feast",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kristina Reed": {
                 "name_of_work": "Feast",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Torill Kove": {
@@ -15508,12 +15508,12 @@
             },
             "Mat Kirkby": {
                 "name_of_work": "The Phone Call",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "James Luca": {
                 "name_of_work": "The Phone Call",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -15525,7 +15525,7 @@
             },
             "Graham Moore": {
                 "name_of_work": "The Imitation Game",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Paul Thomas Anderson": {
@@ -15547,22 +15547,22 @@
         "WRITING (Original Screenplay)": {
             "Alejandro G. I\u00c3\u00b1\u00c3\u00a1rritu": {
                 "name_of_work": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Nicol\u00c3\u00a1s Giacobone": {
                 "name_of_work": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alexander Dinelari": {
                 "name_of_work": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Armando Bo": {
                 "name_of_work": "Birdman or (The Unexpected Virtue of Ignorance)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Richard Linklater": {
@@ -15616,12 +15616,12 @@
             },
             "Pete Docter": {
                 "name_of_work": "Inside Out",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jonas Rivera": {
                 "name_of_work": "Inside Out",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Mark Burton": {
@@ -15658,7 +15658,7 @@
             },
             "Alejandro G. I\u00c3\u00b1\u00c3\u00a1rritu": {
                 "name_of_work": "The Revenant",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Lenny Abrahamson": {
@@ -15675,12 +15675,12 @@
         "DOCUMENTARY (Feature)": {
             "Asif Kapadia": {
                 "name_of_work": "Amy",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "James Gay-Ree": {
                 "name_of_work": "Amy",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Matthew Heineman": {
@@ -15742,7 +15742,7 @@
             },
             "Ennio Morricone": {
                 "name_of_work": "The Hateful Eight",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "J\u00c3\u00b3hann J\u00c3\u00b3hannsson": {
@@ -15799,12 +15799,12 @@
             },
             "Jimmy Nape": {
                 "name_of_work": "\"Writing's On The Wall\" from Spectre",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Sam Smith": {
                 "name_of_work": "\"Writing's On The Wall\" from Spectre",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -15886,7 +15886,7 @@
             },
             "Steve Golin": {
                 "name_of_work": "Spotlight",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alejandro G. I\u00c3\u00b1\u00c3\u00a1rritu": {
@@ -15911,29 +15911,29 @@
             },
             "Michael Sugar": {
                 "name_of_work": "Spotlight",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Nicole Rocklin": {
                 "name_of_work": "Spotlight",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Blye Pagon Faust": {
                 "name_of_work": "Spotlight",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
         "SHORT FILM (Animated)": {
             "Gabriel Osorio": {
                 "name_of_work": "Bear Story",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Pato Escala": {
                 "name_of_work": "Bear Story",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Richard William": {
@@ -15995,24 +15995,24 @@
             },
             "Benjamin Cleary": {
                 "name_of_work": "Stutterer",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Serena Armitage": {
                 "name_of_work": "Stutterer",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
         "WRITING (Adapted Screenplay)": {
             "Charles Randolph": {
                 "name_of_work": "The Big Short",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Adam McKay": {
                 "name_of_work": "The Big Short",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Nick Hornby": {
@@ -16074,12 +16074,12 @@
             },
             "Josh Singer": {
                 "name_of_work": "Spotlight",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Tom McCarthy": {
                 "name_of_work": "Spotlight",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jonathan Herman": {
@@ -16153,17 +16153,17 @@
             },
             "Byron Howard": {
                 "name_of_work": "Zootopia",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Rich Moore": {
                 "name_of_work": "Zootopia",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Clark Spencer": {
                 "name_of_work": "Zootopia",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -16180,7 +16180,7 @@
             },
             "Damien Chazelle": {
                 "name_of_work": "La La Land",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kenneth Lonergan": {
@@ -16232,12 +16232,12 @@
             },
             "Ezra Edelman": {
                 "name_of_work": "O.J.: Made in America",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Caroline Waterlow": {
                 "name_of_work": "O.J.: Made in America",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Ava DuVernay": {
@@ -16264,7 +16264,7 @@
             },
             "Justin Hurwitz": {
                 "name_of_work": "La La Land",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dustin O'Halloran": {
@@ -16291,12 +16291,12 @@
         "MUSIC (Original Song)": {
             "Justin Hurwitz": {
                 "name_of_work": "\"City of Stars\" from La La Land",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Justin Paul": {
                 "name_of_work": "\"City of Stars\" from La La Land",
-                "winner": false,
+                "winner": true,
                 "gender": "male"
             },
             "Justin Timberlake": {
@@ -16468,17 +16468,17 @@
             },
             "Adele Romanski": {
                 "name_of_work": "Moonlight",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Dede Gardner": {
                 "name_of_work": "Moonlight",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Jeremy Kleiner": {
                 "name_of_work": "Moonlight",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -16515,12 +16515,12 @@
             },
             "Alan Barillaro": {
                 "name_of_work": "Piper",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Marc Sondheimer": {
                 "name_of_work": "Piper",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -16552,12 +16552,12 @@
             },
             "Kristof De\u00c3\u00a1k": {
                 "name_of_work": "Sing",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Anna Udvardy": {
                 "name_of_work": "Sing",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Juanjo Gim\u00c3\u00a9nez": {
@@ -16594,7 +16594,7 @@
             },
             "Barry Jenkin": {
                 "name_of_work": "Moonlight",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -16621,7 +16621,7 @@
             },
             "Kenneth Lonergan": {
                 "name_of_work": "Manchester by the Sea",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Mike Mill": {
@@ -16655,12 +16655,12 @@
             },
             "Lee Unkrich": {
                 "name_of_work": "Coco",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Darla K. Anderson": {
                 "name_of_work": "Coco",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Carlos Saldanha": {
@@ -16712,7 +16712,7 @@
             },
             "Guillermo del Toro": {
                 "name_of_work": "The Shape of Water",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -16744,12 +16744,12 @@
             },
             "Bryan Fogel": {
                 "name_of_work": "Icarus",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dan Cogan": {
                 "name_of_work": "Icarus",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Feras Fayyad": {
@@ -16791,7 +16791,7 @@
             },
             "Alexandre Desplat": {
                 "name_of_work": "The Shape of Water",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "John William": {
@@ -16828,12 +16828,12 @@
             },
             "Kristen Anderson-Lopez": {
                 "name_of_work": "\"Remember Me\" from Coco",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Robert Lopez": {
                 "name_of_work": "\"Remember Me\" from Coco",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Diane Warren": {
@@ -16980,12 +16980,12 @@
             },
             "Guillermo del Toro": {
                 "name_of_work": "The Shape of Water",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "J. Miles Dale": {
                 "name_of_work": "The Shape of Water",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Graham Broadbent": {
@@ -17007,12 +17007,12 @@
         "SHORT FILM (Animated)": {
             "Glen Keane": {
                 "name_of_work": "Dear Basketball",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kobe Bryant": {
                 "name_of_work": "Dear Basketball",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Victor Caire": {
@@ -17079,12 +17079,12 @@
             },
             "Chris Overton": {
                 "name_of_work": "The Silent Child",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Rachel Shenton": {
                 "name_of_work": "The Silent Child",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Katja Benrath": {
@@ -17101,7 +17101,7 @@
         "WRITING (Adapted Screenplay)": {
             "James Ivory": {
                 "name_of_work": "Call Me by Your Name",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Scott Neustadter": {
@@ -17153,7 +17153,7 @@
             },
             "Jordan Peele": {
                 "name_of_work": "Get Out",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Greta Gerwig": {
@@ -17242,27 +17242,27 @@
             },
             "Bob Persichetti": {
                 "name_of_work": "Spider-Man: Into the Spider-Verse",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Peter Ramsey": {
                 "name_of_work": "Spider-Man: Into the Spider-Verse",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Rodney Rothman": {
                 "name_of_work": "Spider-Man: Into the Spider-Verse",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Phil Lord": {
                 "name_of_work": "Spider-Man: Into the Spider-Verse",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Christopher Miller": {
                 "name_of_work": "Spider-Man: Into the Spider-Verse",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -17284,7 +17284,7 @@
             },
             "Alfonso Cuar\u00c3\u00b3n": {
                 "name_of_work": "Roma",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Adam McKay": {
@@ -17296,22 +17296,22 @@
         "DOCUMENTARY (Feature)": {
             "Elizabeth Chai Vasarhelyi": {
                 "name_of_work": "Free Solo",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Jimmy Chin": {
                 "name_of_work": "Free Solo",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Evan Haye": {
                 "name_of_work": "Free Solo",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Shannon Dill": {
                 "name_of_work": "Free Solo",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "RaMell Ro": {
@@ -17373,7 +17373,7 @@
         "MUSIC (Original Score)": {
             "Ludwig Goransson": {
                 "name_of_work": "Black Panther",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Terence Blanchard": {
@@ -17430,22 +17430,22 @@
             },
             "Lady Gaga": {
                 "name_of_work": "\"Shallow\" from A Star Is Born",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Mark Ronson": {
                 "name_of_work": "\"Shallow\" from A Star Is Born",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Anthony Rossomando": {
                 "name_of_work": "\"Shallow\" from A Star Is Born",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Andrew Wyatt": {
                 "name_of_work": "\"Shallow\" from A Star Is Born",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Gillian Welch": {
@@ -17517,27 +17517,27 @@
             },
             "Jim Burke": {
                 "name_of_work": "Green Book",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Charles B. Wessler": {
                 "name_of_work": "Green Book",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Brian Currie": {
                 "name_of_work": "Green Book",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Peter Farrelly": {
                 "name_of_work": "Green Book",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Nick Vallelonga": {
                 "name_of_work": "Green Book",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Gabriela Rodr\u00c3\u00adguez": {
@@ -17599,12 +17599,12 @@
             },
             "Domee Shi": {
                 "name_of_work": "Bao",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Becky Neiman-Cobb": {
                 "name_of_work": "Bao",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Louise Bagnall": {
@@ -17676,12 +17676,12 @@
             },
             "Guy Nattiv": {
                 "name_of_work": "Skin",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jaime Ray Newman": {
                 "name_of_work": "Skin",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
@@ -17698,22 +17698,22 @@
             },
             "Charlie Wachtel": {
                 "name_of_work": "BlacKkKlansman",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "David Rabinowitz": {
                 "name_of_work": "BlacKkKlansman",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kevin Willmott": {
                 "name_of_work": "BlacKkKlansman",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Spike Lee": {
                 "name_of_work": "BlacKkKlansman",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Nicole Holofcener": {
@@ -17765,17 +17765,17 @@
             },
             "Nick Vallelonga": {
                 "name_of_work": "Green Book",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Brian Currie": {
                 "name_of_work": "Green Book",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Peter Farrelly": {
                 "name_of_work": "Green Book",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alfonso Cuar\u00c3\u00b3n": {
@@ -17849,17 +17849,17 @@
             },
             "Josh Cooley": {
                 "name_of_work": "Toy Story 4",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Mark Nielsen": {
                 "name_of_work": "Toy Story 4",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jonas Rivera": {
                 "name_of_work": "Toy Story 4",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -17886,24 +17886,24 @@
             },
             "Bong Joon Ho": {
                 "name_of_work": "Parasite",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "DOCUMENTARY (Feature)": {
             "Steven Bognar": {
                 "name_of_work": "American Factory",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Julia Reichert": {
                 "name_of_work": "American Factory",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Jeff Reichert": {
                 "name_of_work": "American Factory",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Feras Fayyad": {
@@ -17970,7 +17970,7 @@
         "MUSIC (Original Score)": {
             "Hildur Gu\u00c3\u00b0nad\u00c3\u00b3ttir": {
                 "name_of_work": "Joker",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Alexandre Desplat": {
@@ -18002,7 +18002,7 @@
             },
             "Elton John": {
                 "name_of_work": "\"(I'm Gonna) Love Me Again\" from Rocketman",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Diane Warren": {
@@ -18139,12 +18139,12 @@
             },
             "Kwak Sin Ae": {
                 "name_of_work": "Parasite",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Bong Joon Ho": {
                 "name_of_work": "Parasite",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -18156,12 +18156,12 @@
             },
             "Matthew A. Cherry": {
                 "name_of_work": "Hair Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Karen Rupert Toliver": {
                 "name_of_work": "Hair Love",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Rosana Sullivan": {
@@ -18213,7 +18213,7 @@
             },
             "Marshall Curry": {
                 "name_of_work": "The Neighbors' Window",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Bryan Buckley": {
@@ -18240,7 +18240,7 @@
             },
             "Taika Waititi": {
                 "name_of_work": "Jojo Rabbit",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Todd Phillip": {
@@ -18292,12 +18292,12 @@
             },
             "Bong Joon Ho": {
                 "name_of_work": "Parasite",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Han Jin Won": {
                 "name_of_work": "Parasite",
-                "winner": false,
+                "winner": true,
                 "gender": "male"
             }
         }
@@ -18346,12 +18346,12 @@
             },
             "Pete Docter": {
                 "name_of_work": "Soul",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dana Murray": {
                 "name_of_work": "Soul",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Tomm Moore": {
@@ -18391,9 +18391,9 @@
                 "winner": false,
                 "gender": "male"
             },
-            "Chlo\u00c3\u00a9 Zhao": {
+            "Chloé Zhao": {
                 "name_of_work": "Nomadland",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Emerald Fennell": {
@@ -18440,17 +18440,17 @@
             },
             "Pippa Ehrlich": {
                 "name_of_work": "My Octopus Teacher",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "James Reed": {
                 "name_of_work": "My Octopus Teacher",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Craig Foster": {
                 "name_of_work": "My Octopus Teacher",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Garrett Bradley": {
@@ -18477,12 +18477,12 @@
             },
             "Trent Reznor": {
                 "name_of_work": "Soul",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Atticus Ro": {
                 "name_of_work": "Soul",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Emile Mosseri": {
@@ -18497,19 +18497,19 @@
             },
             "Jon Batiste": {
                 "name_of_work": "Soul",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
         "MUSIC (Original Song)": {
             "H.E.R.": {
                 "name_of_work": "\"Fight For You\" from Judas and the Black Messiah",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Tiara Thoma": {
                 "name_of_work": "\"Fight For You\" from Judas and the Black Messiah",
-                "winner": false,
+                "winner": true,
                 "gender": "female"
             },
             "Daniel Pemberton": {
@@ -18611,27 +18611,27 @@
             },
             "Frances McDormand": {
                 "name_of_work": "Nomadland",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Peter Spear": {
                 "name_of_work": "Nomadland",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Mollye Asher": {
                 "name_of_work": "Nomadland",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Dan Janvey": {
                 "name_of_work": "Nomadland",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
-            "Chlo\u00c3\u00a9 Zhao": {
+            "Chloé Zhao": {
                 "name_of_work": "Nomadland",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Ben Browning": {
@@ -18698,12 +18698,12 @@
             },
             "Will McCormack": {
                 "name_of_work": "If Anything Happens I Love You",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Michael Govier": {
                 "name_of_work": "If Anything Happens I Love You",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Erick Oh": {
@@ -18755,12 +18755,12 @@
             },
             "Travon Free": {
                 "name_of_work": "Two Distant Strangers",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Martin Desmond Roe": {
                 "name_of_work": "Two Distant Strangers",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Tomer Shushan": {
@@ -18817,15 +18817,15 @@
             },
             "Christopher Hampton": {
                 "name_of_work": "The Father",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Florian Zeller": {
                 "name_of_work": "The Father",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
-            "Chlo\u00c3\u00a9 Zhao": {
+            "Chloé Zhao": {
                 "name_of_work": "Nomadland",
                 "winner": false,
                 "gender": "female"
@@ -18869,7 +18869,7 @@
             },
             "Emerald Fennell": {
                 "name_of_work": "Promising Young Woman",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Darius Marder": {
@@ -18893,22 +18893,22 @@
         "ANIMATED FEATURE FILM": {
             "Jared Bush": {
                 "name_of_work": "Encanto",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Byron Howard": {
                 "name_of_work": "Encanto",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Yvett Merino": {
                 "name_of_work": "Encanto",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Clark Spencer": {
                 "name_of_work": "Encanto",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jonas Poher Rasmussen": {
@@ -19000,7 +19000,7 @@
             },
             "Jane Campion": {
                 "name_of_work": "The Power of the Dog",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Steven Spielberg": {
@@ -19057,22 +19057,22 @@
             },
             "Ahmir \"Questlove\" Thompson": {
                 "name_of_work": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Joseph Patel": {
                 "name_of_work": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Robert Fyvolent": {
                 "name_of_work": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "David Dinerstein": {
                 "name_of_work": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Rintu Thoma": {
@@ -19094,7 +19094,7 @@
             },
             "Hans Zimmer": {
                 "name_of_work": "Dune",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Germaine Franco": {
@@ -19136,12 +19136,12 @@
             },
             "Billie Eilish": {
                 "name_of_work": "\"No Time To Die\" from No Time to Die",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Finneas O'Connell": {
                 "name_of_work": "\"No Time To Die\" from No Time to Die",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Diane Warren": {
@@ -19173,17 +19173,17 @@
             },
             "Philippe Rousselet": {
                 "name_of_work": "CODA",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Fabrice Gianfermi": {
                 "name_of_work": "CODA",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Patrick Wachsberger": {
                 "name_of_work": "CODA",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Adam McKay": {
@@ -19335,12 +19335,12 @@
             },
             "Alberto Mielgo": {
                 "name_of_work": "The Windshield Wiper",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Leo Sanchez": {
                 "name_of_work": "The Windshield Wiper",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             }
         },
@@ -19367,12 +19367,12 @@
             },
             "Aneil Karia": {
                 "name_of_work": "The Long Goodbye",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Riz Ahmed": {
                 "name_of_work": "The Long Goodbye",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Martin Strange-Hansen": {
@@ -19399,7 +19399,7 @@
         "WRITING (Adapted Screenplay)": {
             "Si\u00c3\u00a2n Heder": {
                 "name_of_work": "CODA",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Ryusuke Hamaguchi": {
@@ -19441,7 +19441,7 @@
         "WRITING (Original Screenplay)": {
             "Kenneth Branagh": {
                 "name_of_work": "Belfast",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Adam McKay": {
@@ -19475,22 +19475,22 @@
         "ANIMATED FEATURE FILM": {
             "Guillermo del Toro": {
                 "name_of_work": "Guillermo del Toro's Pinocchio",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Mark Gustafson": {
                 "name_of_work": "Guillermo del Toro's Pinocchio",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Gary Ungar": {
                 "name_of_work": "Guillermo del Toro's Pinocchio",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Alex Bulkley": {
                 "name_of_work": "Guillermo del Toro's Pinocchio",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Dean Fleischer Camp": {
@@ -19557,12 +19557,12 @@
             },
             "Daniel Kwan": {
                 "name_of_work": "Everything Everywhere All at Once",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Daniel Scheinert": {
                 "name_of_work": "Everything Everywhere All at Once",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Steven Spielberg": {
@@ -19629,7 +19629,7 @@
             },
             "Shane Bori": {
                 "name_of_work": "Navalny",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ina Fichman": {
@@ -19649,29 +19649,29 @@
             },
             "Daniel Roher": {
                 "name_of_work": "Navalny",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Odessa Rae": {
                 "name_of_work": "Navalny",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Diane Becker": {
                 "name_of_work": "Navalny",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             },
             "Melanie Miller": {
                 "name_of_work": "Navalny",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
         "MUSIC (Original Score)": {
             "Volker Bertelmann": {
                 "name_of_work": "All Quiet on the Western Front",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Justin Hurwitz": {
@@ -19723,7 +19723,7 @@
             },
             "M.M. Keeravaani": {
                 "name_of_work": "\"Naatu Naatu\" from RRR",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ryan Lott": {
@@ -19795,17 +19795,17 @@
             },
             "Daniel Kwan": {
                 "name_of_work": "Everything Everywhere All at Once",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Daniel Scheinert": {
                 "name_of_work": "Everything Everywhere All at Once",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Jonathan Wang": {
                 "name_of_work": "Everything Everywhere All at Once",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Kristie Macosko Krieger": {
@@ -19887,15 +19887,15 @@
         "SHORT FILM (Animated)": {
             "Charlie Mackesy": {
                 "name_of_work": "The Boy, the Mole, the Fox and the Horse",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Matthew Freud": {
                 "name_of_work": "The Boy, the Mole, the Fox and the Horse",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
-            "Amanda Forbi": {
+            "Amanda Forbis": {
                 "name_of_work": "The Flying Sailor",
                 "winner": false,
                 "gender": "female"
@@ -19934,12 +19934,12 @@
         "SHORT FILM (Live Action)": {
             "Tom Berkeley": {
                 "name_of_work": "An Irish Goodbye",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Ross White": {
                 "name_of_work": "An Irish Goodbye",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Anders Walter": {
@@ -20026,7 +20026,7 @@
             },
             "Sarah Polley": {
                 "name_of_work": "Women Talking",
-                "winner": "true",
+                "winner": true,
                 "gender": "female"
             }
         },
@@ -20038,12 +20038,12 @@
             },
             "Daniel Kwan": {
                 "name_of_work": "Everything Everywhere All at Once",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Daniel Scheinert": {
                 "name_of_work": "Everything Everywhere All at Once",
-                "winner": "true",
+                "winner": true,
                 "gender": "male"
             },
             "Steven Spielberg": {
